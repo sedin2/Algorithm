@@ -1,20 +1,29 @@
 package Programmers;
 
-import java.util.*;
-
 public class Solution {
 
-    public String solution(String[] seoul) {
-        String answer = "";
-        int index = 0;
+    public int solution(int n) {
+        int answer = 0;
 
-        for (int i = 0; i < seoul.length; i++) {
-            if (seoul[i].equals("Kim")) {
-                index = i;
+        int[] number = new int[n + 1];
+
+        for (int i = 2; i <= n; i++) {
+            number[i] = i;
+        }
+
+        for (int i = 2; i <= n; i++) {
+            if (number[i] == 0) continue;
+
+            for (int j = 2 * i; j <= n; j += i) {
+                number[j] = 0;
             }
         }
 
-        answer = "김서방은 " + index + "에 있다";
+        for (int i = 0; i < number.length; i++) {
+            if (number[i] != 0) {
+                answer++;
+            }
+        }
 
         return answer;
     }
