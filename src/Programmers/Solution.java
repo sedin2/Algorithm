@@ -4,17 +4,18 @@ import java.util.*;
 
 public class Solution {
 
-    public String solution(String[] participant, String[] completion) {
+    public String solution(String[] seoul) {
         String answer = "";
-        Arrays.sort(participant);
-        Arrays.sort(completion);
+        int index = 0;
 
-        for(int i=0; i<completion.length; i++){
-            if(!participant[i].equals(completion[i])){
-                return participant[i];
+        for (int i = 0; i < seoul.length; i++) {
+            if (seoul[i].equals("Kim")) {
+                index = i;
             }
         }
-        answer = participant[participant.length - 1];
+
+        answer = "김서방은 " + index + "에 있다";
+
         return answer;
     }
 }
