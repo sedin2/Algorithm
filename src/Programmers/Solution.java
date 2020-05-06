@@ -1,28 +1,24 @@
 package Programmers;
 
-import java.util.HashMap;
-import java.util.Map;
-
 public class Solution {
 
-    public int[] solution(int[] heights) {
-        int[] answer = new int[heights.length];
-        Map<Integer, Integer> tmp = new HashMap<>();
-        for (int i = heights.length - 1; i >= 0; i--) {
-            for (int j = i - 1; j >= 0; j--) {
-                if (heights[i] < heights[j]) {
-                    tmp.put(i, j + 1);
+    public int[] solution(int[] prices) {
+        int[] answer = new int[prices.length];
+
+        for (int i = 0; i < prices.length - 1; i++) {
+            int count = 0;
+            for (int j = i + 1; j < prices.length; j++) {
+                if (prices[i] <= prices[j]) {
+                    count++;
+                } else {
+                    count++;
                     break;
                 }
             }
+            answer[i] = count;
         }
-        for (int i = 0; i < heights.length; i++) {
-            if (tmp.get(i)==null) {
-                answer[i] = 0;
-            }
-            else {
-                answer[i] = tmp.get(i);
-            }
+        for (int i = 0; i < 2; i++) {
+            answer[answer.length - i - 1] = i;
         }
         return answer;
     }
