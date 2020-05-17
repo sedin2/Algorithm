@@ -16,6 +16,9 @@
     [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918)
     
     [최댓값 구하기(SQL)](https://programmers.co.kr/learn/courses/30/lessons/59415)
+    
+    [모든 레코드 조회하기(SQL)](https://programmers.co.kr/learn/courses/30/lessons/59034)
+
 - LV2.
 
     [탑](https://programmers.co.kr/learn/courses/30/lessons/42588)
