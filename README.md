@@ -20,6 +20,8 @@
     [모든 레코드 조회하기(SQL)](https://programmers.co.kr/learn/courses/30/lessons/59034)
     
     [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)
+    
+    [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)
 
 - LV2.
 
