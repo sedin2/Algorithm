@@ -1,11 +1,12 @@
 package Programmers;
 
 public class Solution {
-    public double solution(int[] arr) {
-        double answer = 0;
-        for(int i: arr) {
-            answer += i;
+    public int solution(String s) {
+        int answer = 0;
+        if (s.indexOf(0) == '-') {
+            s.replace("-", "");
+            answer = Integer.parseInt(s) * -1;
         }
-        return answer/arr.length;
+        return Integer.parseInt(s);
     }
 }
