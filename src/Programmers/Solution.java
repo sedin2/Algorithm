@@ -1,12 +1,21 @@
 package Programmers;
 
+import java.util.Arrays;
+
 public class Solution {
-    public int solution(String s) {
-        int answer = 0;
-        if (s.indexOf(0) == '-') {
-            s.replace("-", "");
-            answer = Integer.parseInt(s) * -1;
+    public String solution(String[] participant, String[] completion) {
+
+        Arrays.sort(participant);
+        Arrays.sort(completion);
+
+        int i;
+
+        for (i = 0; i < completion.length; i++) {
+            if (!participant[i].equals(completion[i])) {
+                return participant[i];
+            }
         }
-        return Integer.parseInt(s);
+
+        return participant[i];
     }
 }
