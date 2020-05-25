@@ -24,6 +24,8 @@
     [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)
     
     [문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925)
+    
+    [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)
 
 - LV2.
 
