@@ -1,19 +1,21 @@
 package Programmers;
 
-public class Solution {
-    public String solution(int n) {
-        String answer = "";
-        int tmp;
-        while (n > 0) {
-            tmp = n%3;
-            n = n/3;
+import java.util.HashMap;
+import java.util.Map;
 
-            if(tmp == 0) {
-                n -= 1;
-                tmp = 4;
-            }
-            answer = tmp + answer;
+public class Solution {
+    public int solution(String[][] clothes) {
+        int answer = 1;
+        Map<String, Integer> clothMap = new HashMap<>();
+
+        for (int i = 0; i < clothes.length; i++) {
+            clothMap.put(clothes[i][1], clothMap.getOrDefault(clothes[i][1], 0) + 1);
         }
-        return answer;
+
+        for(int val : clothMap.values()) {
+            answer *= val+1;
+        }
+
+        return answer-1;
     }
 }
