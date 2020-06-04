@@ -1,21 +1,13 @@
 package Programmers;
 
-import java.util.HashMap;
-import java.util.Map;
-
 public class Solution {
-    public int solution(String[][] clothes) {
-        int answer = 1;
-        Map<String, Integer> clothMap = new HashMap<>();
-
-        for (int i = 0; i < clothes.length; i++) {
-            clothMap.put(clothes[i][1], clothMap.getOrDefault(clothes[i][1], 0) + 1);
+    public int solution(int n) {
+        int answer = 0;
+        for (int i = 1; i <= n; i++) {
+            if (n % i == 0) {
+                answer += i;
+            }
         }
-
-        for(int val : clothMap.values()) {
-            answer *= val+1;
-        }
-
-        return answer-1;
+        return answer;
     }
 }
