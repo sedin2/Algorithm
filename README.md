@@ -30,6 +30,8 @@
     [이름이 없는 동물의 아이디](https://programmers.co.kr/learn/courses/30/lessons/59039)
     
     [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928)
+    
+    [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)
 
 - LV2.
 
