@@ -32,6 +32,8 @@
     [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928)
     
     [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)
+    
+    [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915)
 
 - LV2.
 
