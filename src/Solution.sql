@@ -1,1 +1,1 @@
-SELECT ANIMAL_ID FROM ANIMAL_INS WHERE NAME IS NULL;
+SELECT animal_id, name from animal_ins
