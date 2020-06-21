@@ -1,1 +1,1 @@
-SELECT animal_id, name from animal_ins where intake_condition != 'Aged'
+SELECT animal_id, name, datetime from animal_ins ORDER BY name asc, datetime desc;
