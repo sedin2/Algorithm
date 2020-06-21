@@ -40,6 +40,8 @@
     [역순 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/59035)
     
     [아픈 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59036)
+    
+    [어린 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59037)
 
 - LV2.
 
