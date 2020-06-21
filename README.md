@@ -42,6 +42,8 @@
     [아픈 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59036)
     
     [어린 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59037)
+    
+    [여러 기준으로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/59404)
 
 - LV2.
 
