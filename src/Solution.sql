@@ -1,1 +1,1 @@
-SELECT name from animal_ins where datetime = (select min(datetime) from animal_ins);
+SELECT animal_id from animal_ins where name != 'NULL'
