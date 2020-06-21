@@ -36,6 +36,8 @@
     [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915)
     
     [동물의 아이디와 이름](https://programmers.co.kr/learn/courses/30/lessons/59403)
+    
+    [역순 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/59035)
 
 - LV2.
 
