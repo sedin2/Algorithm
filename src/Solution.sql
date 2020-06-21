@@ -1,1 +1,1 @@
-SELECT animal_id, name, datetime from animal_ins ORDER BY name asc, datetime desc;
+SELECT name from animal_ins where datetime = (select min(datetime) from animal_ins);
