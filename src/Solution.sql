@@ -1,1 +1,1 @@
-SELECT animal_id, name, SUBSTRING(datetime, 1, 10) AS '날짜' FROM animal_ins order by animal_id asc;
+SELECT min(datetime) as '시간' from animal_ins;
