@@ -1,1 +1,1 @@
-SELECT min(datetime) as '시간' from animal_ins;
+SELECT count(animal_id) from animal_ins;
