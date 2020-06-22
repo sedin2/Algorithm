@@ -1,1 +1,1 @@
-SELECT animal_id, name from animal_ins where name like '%el%' and animal_type = 'Dog' order by name asc;
+SELECT animal_id, name, SUBSTRING(datetime, 1, 10) AS '날짜' FROM animal_ins order by animal_id asc;
