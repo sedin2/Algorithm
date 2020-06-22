@@ -65,6 +65,8 @@
     
     [중성화 여부 파악하기](https://programmers.co.kr/learn/courses/30/lessons/59409)
     
+    [이름에 el이 들어가는 동물찾기](https://programmers.co.kr/learn/courses/30/lessons/59047)
+    
 - LV3.
     
 </details>
