@@ -67,6 +67,8 @@
     
     [이름에 el이 들어가는 동물찾기](https://programmers.co.kr/learn/courses/30/lessons/59047)
     
+    [DATETIME에서 DATE로 형 변환](https://programmers.co.kr/learn/courses/30/lessons/59414)
+    
 - LV3.
     
 </details>
