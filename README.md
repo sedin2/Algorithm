@@ -69,6 +69,8 @@
     
     [DATETIME에서 DATE로 형 변환](https://programmers.co.kr/learn/courses/30/lessons/59414)
     
+    [최솟값 구하기](https://programmers.co.kr/learn/courses/30/lessons/59038)
+    
 - LV3.
     
 </details>
