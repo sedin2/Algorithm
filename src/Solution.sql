@@ -1,1 +1,1 @@
-SELECT animal_type, count(animal_type) as count from animal_ins group by animal_type order by animal_type asc;
+SELECT animal_type, ifnull(name, "No name") as name, sex_upon_intake from animal_ins;
