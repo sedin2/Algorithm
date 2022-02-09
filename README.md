@@ -95,3 +95,7 @@
 # [SWEA]
 
 - [D3 3431 준환이의 운동관리](https://gist.github.com/sedin2/cbb83a652e0f9f3076275d6ee278f943)
+- [D3 3499 퍼펙트셔플](https://gist.github.com/sedin2/a4b3e89192b9ced843747ccfb6d0651c)
+- [D4 1861 정사각형방](https://gist.github.com/sedin2/1eb66a891116094f22334ed27eab4926)
+- [D4 1223 계산기2](https://gist.github.com/sedin2/78b97d7a1761c8ea32afc6065b36a1cf)
+- [D4 1224 계산기3](https://gist.github.com/sedin2/9b34f0869b30ac5a645f0b1b3a8977eb)
