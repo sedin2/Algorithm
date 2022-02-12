@@ -107,3 +107,4 @@
 - [BJ 2563 색종이](https://gist.github.com/sedin2/b89243e67e9175bea11a3fe261730d7d)
 - [BJ 16926 배열돌리기1](https://gist.github.com/sedin2/5ae1f2b3e64b4c7c8444f854c134c4cf)
 - [BJ 16935 배열돌리기3](https://gist.github.com/sedin2/c1ce36d76cb79800cd3cc651e8a5aa93)
+- [BJ 2628 종이자르기](https://gist.github.com/sedin2/545e5d368412bfa560d856171fefcc45)
