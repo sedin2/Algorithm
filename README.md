@@ -111,3 +111,6 @@
 - [BJ 13300 방배정](https://gist.github.com/sedin2/3041532117acfb96f6ac75dfdf6859e1)
 - [BJ 14696 딱지놀이](https://gist.github.com/sedin2/caa625ea2b1ba17a690bb2f9827831c7)
 - [BJ 10163 색종이](https://gist.github.com/sedin2/05647fab4b81f740f926caec5d585d49)
+- [D3 6808 규영이와인영이의카드게임](https://gist.github.com/sedin2/f815dbe0f2e18da09de28343775478ee)
+- [BJ 2961 도영이가만든맛있는음식](https://gist.github.com/sedin2/658a4e3f0926b59c1acd62d490021a97)
+- [BJ 3040 백설공주와일곱난쟁이](https://gist.github.com/sedin2/c41c01e1800efb2b8d5e52fa6b6ff9ae)
