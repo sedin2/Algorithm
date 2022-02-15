@@ -114,3 +114,42 @@
 - [D3 6808 규영이와인영이의카드게임](https://gist.github.com/sedin2/f815dbe0f2e18da09de28343775478ee)
 - [BJ 2961 도영이가만든맛있는음식](https://gist.github.com/sedin2/658a4e3f0926b59c1acd62d490021a97)
 - [BJ 3040 백설공주와일곱난쟁이](https://gist.github.com/sedin2/c41c01e1800efb2b8d5e52fa6b6ff9ae)
+
+## 알고리즘 IM형 필수 문제
+
+1.        백준    2309    일곱 난쟁이    https://www.acmicpc.net/problem/2309      OK
+2.        백준    2605    줄 세우기        https://www.acmicpc.net/problem/2605    OK
+3.        백준    2578    빙고            https://www.acmicpc.net/problem/2578
+4.        백준    2563    색종이            https://www.acmicpc.net/problem/2563   OK
+5.        백준    2564    경비원            https://www.acmicpc.net/problem/2564
+6.        백준    2491    수열            https://www.acmicpc.net/problem/2491
+7.        백준    2477    참외밭            https://www.acmicpc.net/problem/2477
+8.        백준    2527    직사각형        https://www.acmicpc.net/problem/2527     OK
+9.        백준    10157    자리배정        https://www.acmicpc.net/problem/10157
+10.      백준    10158    개미            https://www.acmicpc.net/problem/10158
+
+## 2022.02.11 추가 문제
+
+11. 백준 2669 직사각형 네개의 합집합의 면적 구하기 https://www.acmicpc.net/problem/2669
+12. 백준 2635 수 이어가기 https://www.acmicpc.net/problem/2635
+13. 백준 1244 스위치 켜고 끄기 https://www.acmicpc.net/problem/1244
+14. 백준 2628 종이자르기 https://www.acmicpc.net/problem/2628 OK
+15. 백준 2116 주사위 쌓기 https://www.acmicpc.net/problem/2116
+16. 백준 2304 창고 다각형 https://www.acmicpc.net/problem/2304
+17. 백준 2559 수열 https://www.acmicpc.net/problem/2559
+18. 백준 10163 색종이 https://www.acmicpc.net/problem/10163 OK
+19. 백준 13300 방 배정 https://www.acmicpc.net/problem/13300 OK
+20. 백준 14696 딱지놀이 https://www.acmicpc.net/problem/14696 OK
+
+## 2022.0214 추가 문제
+
+21. 백준 3060 욕심쟁이 돼지 https://www.acmicpc.net/problem/3060
+22. 백준 2947 나무 조각 https://www.acmicpc.net/problem/2947
+23. 백준 10709 기상캐스터 https://www.acmicpc.net/problem/10709
+24. 백준 2980 도로와 신호등 https://www.acmicpc.net/problem/2980
+25. 백준 1091 카드 섞기 https://www.acmicpc.net/problem/1091
+26. 백준 10431 줄세우기 https://www.acmicpc.net/problem/10431
+27. 백준 3085 사탕 게임 https://www.acmicpc.net/problem/3085
+28. 백준 1063 킹 https://www.acmicpc.net/problem/1063
+29. 백준 2840 행운의 바퀴 https://www.acmicpc.net/problem/2840
+30. 백준 1417 국회의원 선거 https://www.acmicpc.net/problem/1417
