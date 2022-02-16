@@ -114,6 +114,12 @@
 - [D3 6808 규영이와인영이의카드게임](https://gist.github.com/sedin2/f815dbe0f2e18da09de28343775478ee)
 - [BJ 2961 도영이가만든맛있는음식](https://gist.github.com/sedin2/658a4e3f0926b59c1acd62d490021a97)
 - [BJ 3040 백설공주와일곱난쟁이](https://gist.github.com/sedin2/c41c01e1800efb2b8d5e52fa6b6ff9ae)
+- [BJ 2839 설탕배달](https://gist.github.com/sedin2/81444deac30d9ccd3d5f1cc23ae8c049)
+- [BJ 1074 Z](https://gist.github.com/sedin2/c7233d9d5202044fe70863e2a24854fa)
+- [JO 1828 냉장고](https://gist.github.com/sedin2/befcf56c2c843b1f2442697bc492abd4)
+- [SW 5644 무선충전](https://gist.github.com/sedin2/b64f132ee849333435d6559d74b2adb8)
+- [SW 4012 요리사](https://gist.github.com/sedin2/12abf6390efa12cc3973948a14d38c6c)
+- [BJ 1992 쿼드트리](https://gist.github.com/sedin2/e24fee4402f03d9f829a2a717ab6ddf0)
 
 ## 알고리즘 IM형 필수 문제
 
