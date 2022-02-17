@@ -120,6 +120,8 @@
 - [SW 5644 무선충전](https://gist.github.com/sedin2/b64f132ee849333435d6559d74b2adb8)
 - [SW 4012 요리사](https://gist.github.com/sedin2/12abf6390efa12cc3973948a14d38c6c)
 - [BJ 1992 쿼드트리](https://gist.github.com/sedin2/e24fee4402f03d9f829a2a717ab6ddf0)
+- [D5*1247*최적경로](https://gist.github.com/sedin2/1440ee8931ec7baf6f85c70aed4a9594)
+- [BJ*3109*빵집](https://gist.github.com/sedin2/458e16bcac1e635cf88932516fd378d2)
 
 ## 알고리즘 IM형 필수 문제
 
