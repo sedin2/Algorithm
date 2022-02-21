@@ -124,19 +124,23 @@
 - [BJ 3109 빵집](https://gist.github.com/sedin2/458e16bcac1e635cf88932516fd378d2)
 - [BJ 2578 빙고](https://gist.github.com/sedin2/28918bf3f7945d16e357e697ca22ef21)
 - [BJ 2564 경비원](https://gist.github.com/sedin2/979435c813e7eb2283fe893c0ddcdf5a)
+- [BJ 1759 암호만들기](https://gist.github.com/sedin2/3a8b0471428d49eab06f26d8dd768777)
+- [BJ 1260 DFS BFS](https://gist.github.com/sedin2/27f51e374185a164baacd6c51be0a8ba)
+- [D4 1238 Contact](https://gist.github.com/sedin2/3a72f3ab83b97fed39784ae46015f633)
+- [BJ 2491 수열](https://gist.github.com/sedin2/4770d24672debd47a811c449b4d8e861)
 
 ## 알고리즘 IM형 필수 문제
 
-1.  백준    2309    일곱 난쟁이    https://www.acmicpc.net/problem/2309      OK
-2.  백준    2605    줄 세우기        https://www.acmicpc.net/problem/2605    OK
-3.  백준    2578    빙고            https://www.acmicpc.net/problem/2578     OK
-4.  백준    2563    색종이            https://www.acmicpc.net/problem/2563   OK
-5.  백준    2564    경비원            https://www.acmicpc.net/problem/2564   OK
-6.  백준    2491    수열            https://www.acmicpc.net/problem/2491
-7.  백준    2477    참외밭            https://www.acmicpc.net/problem/2477
-8.  백준    2527    직사각형        https://www.acmicpc.net/problem/2527     OK
-9.  백준    10157    자리배정        https://www.acmicpc.net/problem/10157
-10. 백준    10158    개미            https://www.acmicpc.net/problem/10158
+1.  백준 2309 일곱 난쟁이 https://www.acmicpc.net/problem/2309 OK
+2.  백준 2605 줄 세우기 https://www.acmicpc.net/problem/2605 OK
+3.  백준 2578 빙고 https://www.acmicpc.net/problem/2578 OK
+4.  백준 2563 색종이 https://www.acmicpc.net/problem/2563 OK
+5.  백준 2564 경비원 https://www.acmicpc.net/problem/2564 OK
+6.  백준 2491 수열 https://www.acmicpc.net/problem/2491
+7.  백준 2477 참외밭 https://www.acmicpc.net/problem/2477
+8.  백준 2527 직사각형 https://www.acmicpc.net/problem/2527 OK
+9.  백준 10157 자리배정 https://www.acmicpc.net/problem/10157
+10. 백준 10158 개미 https://www.acmicpc.net/problem/10158
 
 ## 2022.02.11 추가 문제
 
