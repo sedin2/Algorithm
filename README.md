@@ -128,6 +128,9 @@
 - [BJ 1260 DFS BFS](https://gist.github.com/sedin2/27f51e374185a164baacd6c51be0a8ba)
 - [D4 1238 Contact](https://gist.github.com/sedin2/3a72f3ab83b97fed39784ae46015f633)
 - [BJ 2491 수열](https://gist.github.com/sedin2/4770d24672debd47a811c449b4d8e861)
+- [BJ 2477 참외밭](https://gist.github.com/sedin2/0fdc81680f59f731d4b8bf58c6f2ebc4)
+- [D4 3289 서로소집합](https://gist.github.com/sedin2/32a0008b99cbd4c14ff47e8f2e7d451c)
+- [D4 7465 창용마을무리의개수](https://gist.github.com/sedin2/00f7ac3cd3e3755dc8cfee1fb8d1f227)
 
 ## 알고리즘 IM형 필수 문제
 
@@ -136,8 +139,8 @@
 3.  백준 2578 빙고 https://www.acmicpc.net/problem/2578 OK
 4.  백준 2563 색종이 https://www.acmicpc.net/problem/2563 OK
 5.  백준 2564 경비원 https://www.acmicpc.net/problem/2564 OK
-6.  백준 2491 수열 https://www.acmicpc.net/problem/2491
-7.  백준 2477 참외밭 https://www.acmicpc.net/problem/2477
+6.  백준 2491 수열 https://www.acmicpc.net/problem/2491 OK
+7.  백준 2477 참외밭 https://www.acmicpc.net/problem/2477 OK
 8.  백준 2527 직사각형 https://www.acmicpc.net/problem/2527 OK
 9.  백준 10157 자리배정 https://www.acmicpc.net/problem/10157
 10. 백준 10158 개미 https://www.acmicpc.net/problem/10158
