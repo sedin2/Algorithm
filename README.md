@@ -131,6 +131,8 @@
 - [BJ 2477 참외밭](https://gist.github.com/sedin2/0fdc81680f59f731d4b8bf58c6f2ebc4)
 - [D4 3289 서로소집합](https://gist.github.com/sedin2/32a0008b99cbd4c14ff47e8f2e7d451c)
 - [D4 7465 창용마을무리의개수](https://gist.github.com/sedin2/00f7ac3cd3e3755dc8cfee1fb8d1f227)
+- [BJ 16236 아기상어](https://gist.github.com/sedin2/873e97ae816f1a76b7e2cdf6a29df08c)
+- [BJ 15686 치킨배달](https://gist.github.com/sedin2/e06aad1b311845c865529d153f9894d7)
 
 ## 알고리즘 IM형 필수 문제
 
