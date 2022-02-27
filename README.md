@@ -139,6 +139,7 @@
 - [BJ 2669 직사각형 네개의 합집합의 면적 구하기](https://gist.github.com/sedin2/ca6f4915c09aa559d3a98af719c669bb)
 - [BJ 1244 스위치 켜고 끄기](https://gist.github.com/sedin2/62c07b849978a9a3d4b2c1f77b26d8d0)
 - [BJ 2365 수 이어가기](https://gist.github.com/sedin2/b8450603a67d2b2a830ef6b0097f4cc3)
+- [BJ 2559 수열](https://gist.github.com/sedin2/25bac816cd77c942178887c88b198fef)
 
 ## 알고리즘 IM형 필수 문제
 
@@ -161,7 +162,7 @@
 14. 백준 2628 종이자르기 https://www.acmicpc.net/problem/2628 OK
 15. 백준 2116 주사위 쌓기 https://www.acmicpc.net/problem/2116
 16. 백준 2304 창고 다각형 https://www.acmicpc.net/problem/2304
-17. 백준 2559 수열 https://www.acmicpc.net/problem/2559
+17. 백준 2559 수열 https://www.acmicpc.net/problem/2559 OK
 18. 백준 10163 색종이 https://www.acmicpc.net/problem/10163 OK
 19. 백준 13300 방 배정 https://www.acmicpc.net/problem/13300 OK
 20. 백준 14696 딱지놀이 https://www.acmicpc.net/problem/14696 OK
