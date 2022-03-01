@@ -142,6 +142,7 @@
 - [BJ 2559 수열](https://gist.github.com/sedin2/25bac816cd77c942178887c88b198fef)
 - [BJ 2116 주사위쌓기](https://gist.github.com/sedin2/8803193f6abb92236e9ee7acc42b60eb)
 - [사각지대 2](https://gist.github.com/sedin2/13ccde14d38650f69b89edfe55d6238f)
+- [BJ 10157 자리배정](https://gist.github.com/sedin2/4c2e8b1f834e7b48fe74707f89958c24)
 
 ## 알고리즘 IM형 필수 문제
 
@@ -153,7 +154,7 @@
 6.  백준 2491 수열 https://www.acmicpc.net/problem/2491 OK
 7.  백준 2477 참외밭 https://www.acmicpc.net/problem/2477 OK
 8.  백준 2527 직사각형 https://www.acmicpc.net/problem/2527 OK
-9.  백준 10157 자리배정 https://www.acmicpc.net/problem/10157
+9.  백준 10157 자리배정 https://www.acmicpc.net/problem/10157 OK
 10. 백준 10158 개미 https://www.acmicpc.net/problem/10158
 
 ## 2022.02.11 추가 문제
