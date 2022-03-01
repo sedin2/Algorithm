@@ -141,6 +141,7 @@
 - [BJ 2365 수 이어가기](https://gist.github.com/sedin2/b8450603a67d2b2a830ef6b0097f4cc3)
 - [BJ 2559 수열](https://gist.github.com/sedin2/25bac816cd77c942178887c88b198fef)
 - [BJ 2116 주사위쌓기](https://gist.github.com/sedin2/8803193f6abb92236e9ee7acc42b60eb)
+- [사각지대 2](https://gist.github.com/sedin2/13ccde14d38650f69b89edfe55d6238f)
 
 ## 알고리즘 IM형 필수 문제
 
