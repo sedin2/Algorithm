@@ -144,6 +144,7 @@
 - [사각지대 2](https://gist.github.com/sedin2/13ccde14d38650f69b89edfe55d6238f)
 - [BJ 10157 자리배정](https://gist.github.com/sedin2/4c2e8b1f834e7b48fe74707f89958c24)
 - [BJ 10158 개미](https://gist.github.com/sedin2/8d65eef425c24ecf442aff0e7b91c920)
+- [BJ 3060 욕심쟁이 돼지](https://gist.github.com/sedin2/e8b0a06b28347fc4598464addc655640)
 
 ## 알고리즘 IM형 필수 문제
 
