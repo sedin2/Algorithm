@@ -145,6 +145,7 @@
 - [BJ 10157 자리배정](https://gist.github.com/sedin2/4c2e8b1f834e7b48fe74707f89958c24)
 - [BJ 10158 개미](https://gist.github.com/sedin2/8d65eef425c24ecf442aff0e7b91c920)
 - [BJ 3060 욕심쟁이 돼지](https://gist.github.com/sedin2/e8b0a06b28347fc4598464addc655640)
+- [BJ 2947 나무조각](https://gist.github.com/sedin2/502b386659612df323a18669167cea71)
 
 ## 알고리즘 IM형 필수 문제
 
@@ -174,8 +175,8 @@
 
 ## 2022.0214 추가 문제
 
-21. 백준 3060 욕심쟁이 돼지 https://www.acmicpc.net/problem/3060
-22. 백준 2947 나무 조각 https://www.acmicpc.net/problem/2947
+21. 백준 3060 욕심쟁이 돼지 https://www.acmicpc.net/problem/3060 OK
+22. 백준 2947 나무 조각 https://www.acmicpc.net/problem/2947 OK
 23. 백준 10709 기상캐스터 https://www.acmicpc.net/problem/10709
 24. 백준 2980 도로와 신호등 https://www.acmicpc.net/problem/2980
 25. 백준 1091 카드 섞기 https://www.acmicpc.net/problem/1091
