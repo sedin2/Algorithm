@@ -147,6 +147,7 @@
 - [BJ 3060 욕심쟁이 돼지](https://gist.github.com/sedin2/e8b0a06b28347fc4598464addc655640)
 - [BJ 2947 나무조각](https://gist.github.com/sedin2/502b386659612df323a18669167cea71)
 - [BJ 10709 기상캐스터](https://gist.github.com/sedin2/ee8c302a686fa91a0ad4e3862521c769)
+- [BJ 10431 줄세우기](https://gist.github.com/sedin2/8d2a92ff0832d5b70e43ad64318a416c)
 
 ## 알고리즘 IM형 필수 문제
 
@@ -181,7 +182,7 @@
 23. 백준 10709 기상캐스터 https://www.acmicpc.net/problem/10709 OK
 24. 백준 2980 도로와 신호등 https://www.acmicpc.net/problem/2980
 25. 백준 1091 카드 섞기 https://www.acmicpc.net/problem/1091
-26. 백준 10431 줄세우기 https://www.acmicpc.net/problem/10431
+26. 백준 10431 줄세우기 https://www.acmicpc.net/problem/10431 X
 27. 백준 3085 사탕 게임 https://www.acmicpc.net/problem/3085
 28. 백준 1063 킹 https://www.acmicpc.net/problem/1063
 29. 백준 2840 행운의 바퀴 https://www.acmicpc.net/problem/2840
