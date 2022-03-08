@@ -148,6 +148,7 @@
 - [BJ 2947 나무조각](https://gist.github.com/sedin2/502b386659612df323a18669167cea71)
 - [BJ 10709 기상캐스터](https://gist.github.com/sedin2/ee8c302a686fa91a0ad4e3862521c769)
 - [BJ 10431 줄세우기](https://gist.github.com/sedin2/8d2a92ff0832d5b70e43ad64318a416c)
+- [BJ 1063 킹](https://gist.github.com/sedin2/b96ac0b406fa6b74374a0d84d24d5e51)
 
 ## 알고리즘 IM형 필수 문제
 
@@ -184,6 +185,6 @@
 25. 백준 1091 카드 섞기 https://www.acmicpc.net/problem/1091
 26. 백준 10431 줄세우기 https://www.acmicpc.net/problem/10431 X
 27. 백준 3085 사탕 게임 https://www.acmicpc.net/problem/3085
-28. 백준 1063 킹 https://www.acmicpc.net/problem/1063
+28. 백준 1063 킹 https://www.acmicpc.net/problem/1063 OK
 29. 백준 2840 행운의 바퀴 https://www.acmicpc.net/problem/2840
 30. 백준 1417 국회의원 선거 https://www.acmicpc.net/problem/1417
