@@ -152,6 +152,7 @@
 - [2021 Dev-Matching: 웹 백엔드 개발자(상반기) - 로또의 최고 순위와 최저 순위](https://gist.github.com/sedin2/6bdbeec1149929ca7ec315eba2fb5c1c)
 - [2021 Dev-Matching: 웹 백엔드 개발자(상반기) - 행렬 테두리 회전하기](https://gist.github.com/sedin2/f996121597fd06bed948c13aca2e0028)
 - [2021 Dev-Matching: 웹 백엔드 개발자(상반기) - 다단계 칫솔](https://gist.github.com/sedin2/4588ab6615fd4d3ccbbc342e18ededef)
+- [0312-01번 문제](https://gist.github.com/sedin2/3b06c040ffb2731e2ee781d649ce7ba2)
 
 ## 알고리즘 IM형 필수 문제
 
