@@ -156,6 +156,7 @@
 - [BJ 1417 국회의원선거](https://gist.github.com/sedin2/a65b8092f13756b76f457948d8520d85)
 - [2021 Dev-Matching: 웹 백엔드 개발자(상반기) - 헤비 유저가 소유한 저장소](https://gist.github.com/sedin2/4ff9288a74a86fb451026b8ef0947f15)
 - [Summer/Winter Coding(~2018) - 기지국 설치](https://gist.github.com/sedin2/513feecea71ff3799c1eeffc3ddc15c5)
+- [Summer/Winter Coding(2019) - 우유와 요거트가 담긴 장바구니](https://gist.github.com/sedin2/890d122f417e73db21c4c6850b997d4c)
 
 ## 알고리즘 IM형 필수 문제
 
