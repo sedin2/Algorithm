@@ -157,6 +157,7 @@
 - [2021 Dev-Matching: 웹 백엔드 개발자(상반기) - 헤비 유저가 소유한 저장소](https://gist.github.com/sedin2/4ff9288a74a86fb451026b8ef0947f15)
 - [Summer/Winter Coding(~2018) - 기지국 설치](https://gist.github.com/sedin2/513feecea71ff3799c1eeffc3ddc15c5)
 - [Summer/Winter Coding(2019) - 우유와 요거트가 담긴 장바구니](https://gist.github.com/sedin2/890d122f417e73db21c4c6850b997d4c)
+- [프로그래머스 - 입양 시각 구하기(2)](https://gist.github.com/sedin2/eb00e6b34434f1e97baa82274e200b0c)
 
 ## 알고리즘 IM형 필수 문제
 
