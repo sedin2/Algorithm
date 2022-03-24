@@ -161,6 +161,7 @@
 - [프로그래머스 - 월간 코드 챌린지 시즌2 - 음양 더하기](https://gist.github.com/sedin2/20f63c77c88381e24045a8c804286ed3)
 - [프로그래머스 - 2017 팁스타운 - 짝지어 제거하기](https://gist.github.com/sedin2/6cbcf31629c8e96f5052079e8239c69e)
 - [프로그래머스 - 월간 코드 챌린지 시즌1 삼각 달팽이](https://gist.github.com/sedin2/4f964f51092f0a1a6c85b3561ab2e333)
+- [프로그래머스 - 월간 코드 챌린지 시즌1 이진 변환 반복하기](https://gist.github.com/sedin2/0a424103371c6f1b301e24b626076908)
 
 ## 알고리즘 IM형 필수 문제
 
