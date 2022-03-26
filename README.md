@@ -163,6 +163,7 @@
 - [프로그래머스 - 월간 코드 챌린지 시즌1 삼각 달팽이](https://gist.github.com/sedin2/4f964f51092f0a1a6c85b3561ab2e333)
 - [프로그래머스 - 월간 코드 챌린지 시즌1 이진 변환 반복하기](https://gist.github.com/sedin2/0a424103371c6f1b301e24b626076908)
 - [프로그래머스 - 월간 코드 챌린지 시즌1 쿼드압축 후 개수 세기](https://gist.github.com/sedin2/582958781eff6d0b9749eceb0a479f94)
+- [프로그래머스 - 월간 코드 챌린지 시즌1 내적](https://gist.github.com/sedin2/cf04d4170d4b9309bc3f5d6f3f45936f)
 
 ## 알고리즘 IM형 필수 문제
 
