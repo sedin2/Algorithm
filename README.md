@@ -167,6 +167,7 @@
 - [프로그래머스 - 월간 코드 챌린지 시즌1 3진법 뒤집기](https://gist.github.com/sedin2/ebc2c2708c9589fa22ab2f4049b8c745)
 - [BJ 2636 치즈](https://gist.github.com/sedin2/43cd1462541dd6e087da79435a2bcc8c)
 - [BJ 1149 RGB 거리](https://gist.github.com/sedin2/d4880ce179286bd66aee12eb0bd4245a)
+- [BJ 1463 1로만들기](https://gist.github.com/sedin2/0f0a8de509aa839cdf4cbc3f50917120)
 
 ## 알고리즘 IM형 필수 문제
 
