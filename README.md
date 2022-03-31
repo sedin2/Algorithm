@@ -169,6 +169,7 @@
 - [BJ 1149 RGB 거리](https://gist.github.com/sedin2/d4880ce179286bd66aee12eb0bd4245a)
 - [BJ 1463 1로만들기](https://gist.github.com/sedin2/0f0a8de509aa839cdf4cbc3f50917120)
 - [BJ 1926 그림](https://gist.github.com/sedin2/3a8588b1ef55bfecd6e3c7612b48c0b5)
+- [BJ 2178 미로](https://gist.github.com/sedin2/5917188b6f2b9f910efa5ea743ed22d9)
 
 ## 알고리즘 IM형 필수 문제
 
