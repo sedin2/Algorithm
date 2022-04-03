@@ -171,6 +171,7 @@
 - [BJ 1926 그림](https://gist.github.com/sedin2/3a8588b1ef55bfecd6e3c7612b48c0b5)
 - [BJ 2178 미로](https://gist.github.com/sedin2/5917188b6f2b9f910efa5ea743ed22d9)
 - [BJ 7576 토마토](https://gist.github.com/sedin2/7c09e85bbb5e735efab6818b795f8354)
+- [BJ 4179 불!](https://gist.github.com/sedin2/ddef9ea253a76475e1cebdb852aab877)
 
 ## 알고리즘 IM형 필수 문제
 
