@@ -211,3 +211,7 @@
 28. 백준 1063 킹 https://www.acmicpc.net/problem/1063 OK
 29. 백준 2840 행운의 바퀴 https://www.acmicpc.net/problem/2840
 30. 백준 1417 국회의원 선거 https://www.acmicpc.net/problem/1417
+
+## BaaarkingDog Algorithm
+
+- [BOJ*10808*알파벳개수](https://gist.github.com/sedin2/ad5b22d20f5e671d4b4ea0df61e74fe4)
