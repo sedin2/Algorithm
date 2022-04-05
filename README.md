@@ -216,3 +216,4 @@
 
 - [BOJ 10808 알파벳개수](https://gist.github.com/sedin2/ad5b22d20f5e671d4b4ea0df61e74fe4)
 - [BOJ 2577 숫자의개수](https://gist.github.com/sedin2/8615f5dfd4c6db10f55f3589252238e4)
+- [BOJ 1475 방번호](https://gist.github.com/sedin2/f62009694e8021f4499fe0de709537f2)
