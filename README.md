@@ -222,3 +222,4 @@
   - [BJ 7576 토마토](https://gist.github.com/sedin2/7c09e85bbb5e735efab6818b795f8354)
   - [BJ 4179 불!](https://gist.github.com/sedin2/ddef9ea253a76475e1cebdb852aab877)
   - [BJ 1697 숨바꼭질](https://gist.github.com/sedin2/bd7c1a747cf25b8d450cf03282c9744d)
+  - [BJ 1012 유기농배추](https://gist.github.com/sedin2/9cb9ce68a3ddf28ca73908321b31221e)
