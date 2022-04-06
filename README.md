@@ -224,3 +224,4 @@
   - [BJ 1697 숨바꼭질](https://gist.github.com/sedin2/bd7c1a747cf25b8d450cf03282c9744d)
   - [BJ 1012 유기농배추](https://gist.github.com/sedin2/9cb9ce68a3ddf28ca73908321b31221e)
   - [BJ 10026 적록색약](https://gist.github.com/sedin2/ee970830b00b127aff876f256b7d8039)
+  - [BJ 7569 토마토](https://gist.github.com/sedin2/1c83a7544887c7f70b41944b67df2e9a)
