@@ -168,10 +168,6 @@
 - [BJ 2636 치즈](https://gist.github.com/sedin2/43cd1462541dd6e087da79435a2bcc8c)
 - [BJ 1149 RGB 거리](https://gist.github.com/sedin2/d4880ce179286bd66aee12eb0bd4245a)
 - [BJ 1463 1로만들기](https://gist.github.com/sedin2/0f0a8de509aa839cdf4cbc3f50917120)
-- [BJ 1926 그림](https://gist.github.com/sedin2/3a8588b1ef55bfecd6e3c7612b48c0b5)
-- [BJ 2178 미로](https://gist.github.com/sedin2/5917188b6f2b9f910efa5ea743ed22d9)
-- [BJ 7576 토마토](https://gist.github.com/sedin2/7c09e85bbb5e735efab6818b795f8354)
-- [BJ 4179 불!](https://gist.github.com/sedin2/ddef9ea253a76475e1cebdb852aab877)
 
 ## 알고리즘 IM형 필수 문제
 
@@ -214,6 +210,15 @@
 
 ## BaaarkingDog Algorithm
 
-- [BOJ 10808 알파벳개수](https://gist.github.com/sedin2/ad5b22d20f5e671d4b4ea0df61e74fe4)
-- [BOJ 2577 숫자의개수](https://gist.github.com/sedin2/8615f5dfd4c6db10f55f3589252238e4)
-- [BOJ 1475 방번호](https://gist.github.com/sedin2/f62009694e8021f4499fe0de709537f2)
+- 배열
+
+  - [BOJ 10808 알파벳개수](https://gist.github.com/sedin2/ad5b22d20f5e671d4b4ea0df61e74fe4)
+  - [BOJ 2577 숫자의개수](https://gist.github.com/sedin2/8615f5dfd4c6db10f55f3589252238e4)
+  - [BOJ 1475 방번호](https://gist.github.com/sedin2/f62009694e8021f4499fe0de709537f2)
+
+- BFS
+  - [BJ 1926 그림](https://gist.github.com/sedin2/3a8588b1ef55bfecd6e3c7612b48c0b5)
+  - [BJ 2178 미로탐색](https://gist.github.com/sedin2/5917188b6f2b9f910efa5ea743ed22d9)
+  - [BJ 7576 토마토](https://gist.github.com/sedin2/7c09e85bbb5e735efab6818b795f8354)
+  - [BJ 4179 불!](https://gist.github.com/sedin2/ddef9ea253a76475e1cebdb852aab877)
+  - [BJ 1697 숨바꼭질](https://gist.github.com/sedin2/bd7c1a747cf25b8d450cf03282c9744d)
