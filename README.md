@@ -225,3 +225,4 @@
   - [BJ 1012 유기농배추](https://gist.github.com/sedin2/9cb9ce68a3ddf28ca73908321b31221e)
   - [BJ 10026 적록색약](https://gist.github.com/sedin2/ee970830b00b127aff876f256b7d8039)
   - [BJ 7569 토마토](https://gist.github.com/sedin2/1c83a7544887c7f70b41944b67df2e9a)
+  - [BJ 7562 나이트의이동](https://gist.github.com/sedin2/642e18f98240bba9ca65616d57df6edc)
