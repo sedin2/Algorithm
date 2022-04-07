@@ -226,3 +226,4 @@
   - [BJ 10026 적록색약](https://gist.github.com/sedin2/ee970830b00b127aff876f256b7d8039)
   - [BJ 7569 토마토](https://gist.github.com/sedin2/1c83a7544887c7f70b41944b67df2e9a)
   - [BJ 7562 나이트의이동](https://gist.github.com/sedin2/642e18f98240bba9ca65616d57df6edc)
+  - [BJ 5427 불](https://gist.github.com/sedin2/d23e44328bf7ca3be79040ceb7627516)
