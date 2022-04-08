@@ -228,3 +228,4 @@
   - [BJ 7562 나이트의이동](https://gist.github.com/sedin2/642e18f98240bba9ca65616d57df6edc)
   - [BJ 5427 불](https://gist.github.com/sedin2/d23e44328bf7ca3be79040ceb7627516)
   - [BJ 2583 영역구하기](https://gist.github.com/sedin2/ebdfeee86b5d912579b4852d6fb13978)
+  - [BJ 2667 단지번호붙이기](https://gist.github.com/sedin2/aa87847a1648889a4e8c31f6c0cfdda9)
