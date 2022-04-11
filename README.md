@@ -231,3 +231,4 @@
   - [BJ 2667 단지번호붙이기](https://gist.github.com/sedin2/aa87847a1648889a4e8c31f6c0cfdda9)
   - [BJ 5014 스타트링크](https://gist.github.com/sedin2/7f647f04cb224df7b20542ce47137915)
   - [BJ 6593 상범빌딩](https://gist.github.com/sedin2/3ddb9954941ca02eb8012b8dcefa93a1)
+  - [BJ 2206 벽부수고이동하기](https://gist.github.com/sedin2/aee705eb3717534824a6bfb6917f3ec3)
