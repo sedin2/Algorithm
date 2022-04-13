@@ -168,6 +168,7 @@
 - [BJ 2636 치즈](https://gist.github.com/sedin2/43cd1462541dd6e087da79435a2bcc8c)
 - [BJ 1149 RGB 거리](https://gist.github.com/sedin2/d4880ce179286bd66aee12eb0bd4245a)
 - [BJ 1463 1로만들기](https://gist.github.com/sedin2/0f0a8de509aa839cdf4cbc3f50917120)
+- [BJ 1929 소수구하기](https://gist.github.com/sedin2/b3097cd1c715cff64381ab7bb1497db4)
 
 ## 알고리즘 IM형 필수 문제
 
@@ -232,4 +233,4 @@
   - [BJ 5014 스타트링크](https://gist.github.com/sedin2/7f647f04cb224df7b20542ce47137915)
   - [BJ 6593 상범빌딩](https://gist.github.com/sedin2/3ddb9954941ca02eb8012b8dcefa93a1)
   - [BJ 2206 벽부수고이동하기](https://gist.github.com/sedin2/aee705eb3717534824a6bfb6917f3ec3)
-  - [BJ 1929 소수구하기](https://gist.github.com/sedin2/b3097cd1c715cff64381ab7bb1497db4)
+  - [BJ 9205 맥주마시면서걸어가기](https://gist.github.com/sedin2/9d4b4c040f2b20c03bb97b67195bf893)
