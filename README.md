@@ -234,3 +234,4 @@
   - [BJ 6593 상범빌딩](https://gist.github.com/sedin2/3ddb9954941ca02eb8012b8dcefa93a1)
   - [BJ 2206 벽부수고이동하기](https://gist.github.com/sedin2/aee705eb3717534824a6bfb6917f3ec3)
   - [BJ 9205 맥주마시면서걸어가기](https://gist.github.com/sedin2/9d4b4c040f2b20c03bb97b67195bf893)
+  - [BJ 9466 텀프로젝트](https://gist.github.com/sedin2/aef922b544809f8592fa2b7225f401d0)
