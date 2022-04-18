@@ -217,6 +217,7 @@
   - [BJ 2577 숫자의개수](https://gist.github.com/sedin2/8615f5dfd4c6db10f55f3589252238e4)
   - [BJ 1475 방번호](https://gist.github.com/sedin2/f62009694e8021f4499fe0de709537f2)
   - [BJ 3273 두수의합](https://gist.github.com/sedin2/8491a62b311aac81c4bae5ccec8c4b47)
+  - [BJ 10807 개수 세기](https://gist.github.com/sedin2/3b53a2a5bd8267058ca6fc6df42137e9)
 
 - BFS
   - [BJ 1926 그림](https://gist.github.com/sedin2/3a8588b1ef55bfecd6e3c7612b48c0b5)
