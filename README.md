@@ -238,3 +238,4 @@
   - [BJ 9205 맥주마시면서걸어가기](https://gist.github.com/sedin2/9d4b4c040f2b20c03bb97b67195bf893)
   - [BJ 9466 텀프로젝트](https://gist.github.com/sedin2/aef922b544809f8592fa2b7225f401d0)
   - [BJ 2573 빙산](https://gist.github.com/sedin2/20518d6f27c72bc8e02772aa3ae76b22)
+  - [BJ 2146 다리만들기](https://gist.github.com/sedin2/300f24ba1a67e7c264e1a2839f6e9645)
