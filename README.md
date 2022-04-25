@@ -245,3 +245,5 @@
 - 구현
   - [BJ 14891 톱니바퀴](https://gist.github.com/sedin2/c2335be8b2bd7219b9af942563374052)
   - [BJ 15662 톱니바퀴2](https://gist.github.com/sedin2/b747bd57ad283d905666efc0ca19ce49)
+- 백트래킹
+  - [BJ 15649 N과M](https://gist.github.com/sedin2/8e7a238bd0b529ee34a522174e869f1c)
