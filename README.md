@@ -253,3 +253,4 @@
   - [BJ 9663 N-Queen](https://gist.github.com/sedin2/5106022bafed0fdc8944ef0dd4d9d7fd)
   - [BJ 1182 부분수열의합](https://gist.github.com/sedin2/f0536621ae99d285c1f86dd200bfab53)
   - [BJ 15650 N과M(2)](https://gist.github.com/sedin2/39043799c3a3e7f63da18ea0a888a2b9)
+  - [BJ 15651 N과M(3)](https://gist.github.com/sedin2/a68325813e50ed52a963015509187139)
