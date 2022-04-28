@@ -254,3 +254,4 @@
   - [BJ 1182 부분수열의합](https://gist.github.com/sedin2/f0536621ae99d285c1f86dd200bfab53)
   - [BJ 15650 N과M(2)](https://gist.github.com/sedin2/39043799c3a3e7f63da18ea0a888a2b9)
   - [BJ 15651 N과M(3)](https://gist.github.com/sedin2/a68325813e50ed52a963015509187139)
+  - [BJ 15652 N과M(4)](https://gist.github.com/sedin2/2af348d0eb6c91c6ca481a5ef6fe1e15)
