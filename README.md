@@ -256,3 +256,4 @@
   - [BJ 15651 N과M(3)](https://gist.github.com/sedin2/a68325813e50ed52a963015509187139)
   - [BJ 15652 N과M(4)](https://gist.github.com/sedin2/2af348d0eb6c91c6ca481a5ef6fe1e15)
   - [BJ 15654 N과M(5)](https://gist.github.com/sedin2/fcaf486f6bd6c4b40f69f81063435acc)
+  - [BJ 15655 N과M(6)](https://gist.github.com/sedin2/fb9dd1aafaca09214ede34b76333cf73)
