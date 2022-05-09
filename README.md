@@ -264,3 +264,4 @@
   - [BJ 15665 N과M(11)](https://gist.github.com/sedin2/6173595bbfdf27e551b00e440462c03c)
   - [BJ 15666 N과M(12)](https://gist.github.com/sedin2/36ca51ed8a8111a014ef1d25cc604ea8)
   - [BJ 6603 로또](https://gist.github.com/sedin2/489c5504e0d3339ee3806b71c7bd527d)
+  - [BJ 1759 암호만들기](https://gist.github.com/sedin2/eb8a38a7be944401d17e2a75b7538210)
