@@ -219,6 +219,10 @@
   - [BJ 3273 두수의합](https://gist.github.com/sedin2/8491a62b311aac81c4bae5ccec8c4b47)
   - [BJ 10807 개수 세기](https://gist.github.com/sedin2/3b53a2a5bd8267058ca6fc6df42137e9)
 
+- 스택
+
+  - [BJ 10828 스택](https://gist.github.com/sedin2/9cac9b68d6f9b5d3ade8a1ccba0a79bd)
+
 - BFS
 
   - [BJ 1926 그림](https://gist.github.com/sedin2/3a8588b1ef55bfecd6e3c7612b48c0b5)
