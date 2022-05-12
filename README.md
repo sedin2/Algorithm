@@ -223,6 +223,7 @@
 
   - [BJ 10828 스택](https://gist.github.com/sedin2/9cac9b68d6f9b5d3ade8a1ccba0a79bd)
   - [BJ 10773 제로](https://gist.github.com/sedin2/8da061e4089244c3763b0ce832456b11)
+  - [BJ 1874 스택수열](https://gist.github.com/sedin2/de986d3a8ca4d6b231b33bf896ce2ef4)
 
 - BFS
 
