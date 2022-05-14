@@ -225,6 +225,10 @@
   - [BJ 10773 제로](https://gist.github.com/sedin2/8da061e4089244c3763b0ce832456b11)
   - [BJ 1874 스택수열](https://gist.github.com/sedin2/de986d3a8ca4d6b231b33bf896ce2ef4)
 
+- 큐
+
+  - [BJ 10845 큐](https://gist.github.com/sedin2/4ad26c74a75122bcf76f99490f1acf2d)
+
 - BFS
 
   - [BJ 1926 그림](https://gist.github.com/sedin2/3a8588b1ef55bfecd6e3c7612b48c0b5)
