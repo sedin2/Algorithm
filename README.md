@@ -229,6 +229,7 @@
 
   - [BJ 10845 큐](https://gist.github.com/sedin2/4ad26c74a75122bcf76f99490f1acf2d)
   - [BJ 18258 큐2](https://gist.github.com/sedin2/f3a65a44f876ac69d00a428517d739d0)
+  - [BJ 2164 카드2](https://gist.github.com/sedin2/4f5cb1bd6228a77455b4e0fc6149fb92)
 
 - BFS
 
