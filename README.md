@@ -259,6 +259,7 @@
   - [BJ 14891 톱니바퀴](https://gist.github.com/sedin2/c2335be8b2bd7219b9af942563374052)
   - [BJ 15662 톱니바퀴2](https://gist.github.com/sedin2/b747bd57ad283d905666efc0ca19ce49)
   - [BJ 11559 PuyoPuyo](https://gist.github.com/sedin2/d44c501ca5ad4bde64afb83c40072b4f)
+  - [BJ 14499 주사위 굴리기](https://gist.github.com/sedin2/d561450376a1f2ccf639f0b57108e61e)
 
 - 백트래킹
 
