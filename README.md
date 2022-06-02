@@ -263,6 +263,7 @@
   - [BJ 13335 트럭](https://gist.github.com/sedin2/e34d79fdf61393ef9d07460797861ffd)
   - [BJ 16985 Maaaaaaaaaze](https://gist.github.com/sedin2/7d7e6fdccaa63276ba58170ee05666ad)
   - [BJ 14503 로봇청소기](https://gist.github.com/sedin2/3fb3324bc2faafb4522fab4b98c17765)
+  - [BJ 3190 뱀](https://gist.github.com/sedin2/b85e7465d2e4adac12183f6e40337379)
 
 - 백트래킹
 
