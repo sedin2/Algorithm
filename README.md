@@ -267,6 +267,7 @@
   - [BJ 14500 테트로미노](https://gist.github.com/sedin2/3d80a32e05809443cd5280e5ebe2d11d)
   - [BJ 16236 아기상어](https://gist.github.com/sedin2/1f8d87c02bd243c65492fc7312eb240e)
   - [BJ 17143 낚시왕](https://gist.github.com/sedin2/11c76f6e915973ede6010a8b4f13ef88)
+  - [BJ*17144*미세먼지안녕!](https://gist.github.com/sedin2/12bea446e169c98c38df654977123ebb)
 
 - 백트래킹
 
