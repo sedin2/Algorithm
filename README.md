@@ -295,3 +295,4 @@
   - [BJ 2579 계단오르기](https://gist.github.com/sedin2/f8dd21580daacaea1ca7b19db22d9e82)
   - [BJ 11659 구간 합 구하기4](https://gist.github.com/sedin2/b346ae64b4a1ceb831ba4e2b85ab8cfb)
   - [BJ 1003 피보나치 함수](https://gist.github.com/sedin2/37a06697c83d6d7e8b0584fa16a6a8a6)
+  - [BJ 1932 정수 삼각형](https://gist.github.com/sedin2/aced13d2484c145475525ac9e0078851)
