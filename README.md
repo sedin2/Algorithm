@@ -296,3 +296,7 @@
   - [BJ 11659 구간 합 구하기4](https://gist.github.com/sedin2/b346ae64b4a1ceb831ba4e2b85ab8cfb)
   - [BJ 1003 피보나치 함수](https://gist.github.com/sedin2/37a06697c83d6d7e8b0584fa16a6a8a6)
   - [BJ 1932 정수 삼각형](https://gist.github.com/sedin2/aced13d2484c145475525ac9e0078851)
+
+- 그리디
+
+  - [BJ 11047 동전0](https://gist.github.com/sedin2/3debe21132a18982fd444e474d0328fa)
