@@ -292,6 +292,10 @@
   - [BJ 6603 로또](https://gist.github.com/sedin2/489c5504e0d3339ee3806b71c7bd527d)
   - [BJ 1759 암호만들기](https://gist.github.com/sedin2/eb8a38a7be944401d17e2a75b7538210)
 
+- 정렬
+
+  - [BJ 5648 역원소정렬](https://gist.github.com/sedin2/0bf2a9ee7c39282fb116258a1b954601)
+
 - DP
 
   - [BJ 9095 1,2,3더하기](https://gist.github.com/sedin2/14ee2aeb260e6b3a9d43295dc64f2461)
