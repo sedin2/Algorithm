@@ -269,7 +269,7 @@
   - [BJ 17143 낚시왕](https://gist.github.com/sedin2/11c76f6e915973ede6010a8b4f13ef88)
   - [BJ 17144 미세먼지안녕!](https://gist.github.com/sedin2/12bea446e169c98c38df654977123ebb)
   - [BJ 4991 로봇 청소기](https://gist.github.com/sedin2/9acd6b760b78cbc85b3bada75825c3d6)
-  - [BJ 17141](https://gist.github.com/sedin2/b7048630747b64584ec58d6448d64474)
+  - [BJ 17141 연구소2](https://gist.github.com/sedin2/b7048630747b64584ec58d6448d64474)
   - [BJ 19236 청소년 상어](https://gist.github.com/sedin2/05dc507ffa1f89426fcbfde2bb372fa0)
   - [BJ 20056 마법사 상어와 파이어볼](https://gist.github.com/sedin2/492b9021e906f82971b3c94398dea7f9)
 
