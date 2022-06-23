@@ -271,6 +271,7 @@
   - [BJ 4991 로봇 청소기](https://gist.github.com/sedin2/9acd6b760b78cbc85b3bada75825c3d6)
   - [BJ 14502 연구소](https://gist.github.com/sedin2/9214d96653c53a312ff5cca9b2e9e030)
   - [BJ 17141 연구소2](https://gist.github.com/sedin2/b7048630747b64584ec58d6448d64474)
+  - [BJ 17142 연구소3](https://gist.github.com/sedin2/26daeac7e2c438094aea7d4212441800)
   - [BJ 19236 청소년 상어](https://gist.github.com/sedin2/05dc507ffa1f89426fcbfde2bb372fa0)
   - [BJ 20056 마법사 상어와 파이어볼](https://gist.github.com/sedin2/492b9021e906f82971b3c94398dea7f9)
 
