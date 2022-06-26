@@ -298,6 +298,7 @@
 - 정렬
 
   - [BJ 5648 역원소정렬](https://gist.github.com/sedin2/0bf2a9ee7c39282fb116258a1b954601)
+  - [BJ 1181 단어정렬](https://gist.github.com/sedin2/e37436ad15704db63f075c2d7e28c462)
 
 - DP
 
