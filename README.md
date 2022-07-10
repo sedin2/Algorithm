@@ -300,6 +300,7 @@
   - [BJ 5648 역원소정렬](https://gist.github.com/sedin2/0bf2a9ee7c39282fb116258a1b954601)
   - [BJ 1181 단어정렬](https://gist.github.com/sedin2/e37436ad15704db63f075c2d7e28c462)
   - [BJ 2910 빈도정렬](https://gist.github.com/sedin2/865580027826c553aba8226425b359ee)
+  - [BJ 10814 나이순정렬](https://gist.github.com/sedin2/ba788f4ab362d387c8b8f36434afdd21)
 
 - DP
 
