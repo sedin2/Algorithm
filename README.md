@@ -317,3 +317,4 @@
 ## 인프런 자바(Java) 알고리즘 문제풀이: 코딩 테스트 대비
 
 - [5. 특정 문자 뒤집기](https://gist.github.com/sedin2/1bd9061bc87d7e14eb957573eee071be)
+- [6. 중복 문자 제거](https://gist.github.com/sedin2/9deca8f7329ea5b880b5bbb5c74ae927)
