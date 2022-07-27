@@ -318,3 +318,4 @@
 
 - [5. 특정 문자 뒤집기](https://gist.github.com/sedin2/1bd9061bc87d7e14eb957573eee071be)
 - [6. 중복 문자 제거](https://gist.github.com/sedin2/9deca8f7329ea5b880b5bbb5c74ae927)
+- [7. 회문 문자열](https://gist.github.com/sedin2/8306f3a99ebda7086dda436b332f8193)
