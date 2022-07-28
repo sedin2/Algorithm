@@ -321,3 +321,4 @@
 - [7. 회문 문자열](https://gist.github.com/sedin2/8306f3a99ebda7086dda436b332f8193)
 - [8. 유효한 팰린드롬](https://gist.github.com/sedin2/14168f68753a02a301a06727df76a9ea)
 - [9. 숫자만 추출](https://gist.github.com/sedin2/c6a35985f041ef774461532c0ee224ff)
+- [10. 가장 짧은 문자거리](https://gist.github.com/sedin2/7fca812df03088ce1c1adf3ef8eead7f)
