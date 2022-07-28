@@ -320,3 +320,4 @@
 - [6. 중복 문자 제거](https://gist.github.com/sedin2/9deca8f7329ea5b880b5bbb5c74ae927)
 - [7. 회문 문자열](https://gist.github.com/sedin2/8306f3a99ebda7086dda436b332f8193)
 - [8. 유효한 팰린드롬](https://gist.github.com/sedin2/14168f68753a02a301a06727df76a9ea)
+- [9. 숫자만 추출](https://gist.github.com/sedin2/c6a35985f041ef774461532c0ee224ff)
