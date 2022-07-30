@@ -326,3 +326,4 @@
 - [12. 암호](https://gist.github.com/sedin2/bb2c46a1505298c0b0c15bfad1328b70)
 
 - [2-1. 큰 수 출력하기](https://gist.github.com/sedin2/55b3f196dde670018780db6152fe4b95)
+- [2-2. 보이는 학생](https://gist.github.com/sedin2/827ce44d07186b41e101061f72c1aa8d)
