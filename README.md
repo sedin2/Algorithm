@@ -324,3 +324,5 @@
 - [10. 가장 짧은 문자거리](https://gist.github.com/sedin2/7fca812df03088ce1c1adf3ef8eead7f)
 - [11. 문자열 압축](https://gist.github.com/sedin2/9062c17305c440746c7f5e1b598d2be8)
 - [12. 암호](https://gist.github.com/sedin2/bb2c46a1505298c0b0c15bfad1328b70)
+
+- [2-1. 큰 수 출력하기](https://gist.github.com/sedin2/55b3f196dde670018780db6152fe4b95)
