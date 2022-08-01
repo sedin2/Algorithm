@@ -329,3 +329,4 @@
 - [2-2. 보이는 학생](https://gist.github.com/sedin2/827ce44d07186b41e101061f72c1aa8d)
 - [2-3. 가위 바위 보](https://gist.github.com/sedin2/810e7314cbc7f62ca99ab9ab37c7d988)
 - [2-4. 피보나치수열](https://gist.github.com/sedin2/fc735b1f2ca605383cb9ee88624df5cd)
+- [2-5. 소수(에라토스테네스 체)](https://gist.github.com/sedin2/ac3d75384857d581fa75648c24b35590)
