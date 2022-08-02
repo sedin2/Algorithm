@@ -331,4 +331,5 @@
 - [2-4. 피보나치수열](https://gist.github.com/sedin2/fc735b1f2ca605383cb9ee88624df5cd)
 - [2-5. 소수(에라토스테네스 체)](https://gist.github.com/sedin2/ac3d75384857d581fa75648c24b35590)
 - [2-6. 뒤집은 소수](https://gist.github.com/sedin2/fd39cafd4a623c5528623cb885cf016b)
-- [2-7 점수계산](https://gist.github.com/sedin2/0f2afc1ff6d318b7d5250019c30e6ffe)
+- [2-7. 점수계산](https://gist.github.com/sedin2/0f2afc1ff6d318b7d5250019c30e6ffe)
+- [2-8. 등수구하기](https://gist.github.com/sedin2/04062d02ba6bb46b34f64dfb3f2b73bb)
