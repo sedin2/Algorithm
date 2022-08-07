@@ -333,3 +333,4 @@
 - [2-6. 뒤집은 소수](https://gist.github.com/sedin2/fd39cafd4a623c5528623cb885cf016b)
 - [2-7. 점수계산](https://gist.github.com/sedin2/0f2afc1ff6d318b7d5250019c30e6ffe)
 - [2-8. 등수구하기](https://gist.github.com/sedin2/04062d02ba6bb46b34f64dfb3f2b73bb)
+- [2-9. 격자판 최대합](https://gist.github.com/sedin2/4631e01e89bf9052a46b12b9cf614ca5)
