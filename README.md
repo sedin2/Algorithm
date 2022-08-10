@@ -314,6 +314,10 @@
 
   - [BJ 11047 동전0](https://gist.github.com/sedin2/3debe21132a18982fd444e474d0328fa)
 
+- 이분탐색
+
+  - [BJ 10815 숫자카드](https://gist.github.com/sedin2/c7774a0491bb4761744842db72616710)
+
 ## 인프런 자바(Java) 알고리즘 문제풀이: 코딩 테스트 대비
 
 - [5. 특정 문자 뒤집기](https://gist.github.com/sedin2/1bd9061bc87d7e14eb957573eee071be)
