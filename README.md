@@ -317,6 +317,7 @@
 - 이분탐색
 
   - [BJ 10815 숫자카드](https://gist.github.com/sedin2/c7774a0491bb4761744842db72616710)
+  - [BJ 1822 차집합](https://gist.github.com/sedin2/6cb83102339e419adc4c7e96a60e0644)
 
 ## 인프런 자바(Java) 알고리즘 문제풀이: 코딩 테스트 대비
 
