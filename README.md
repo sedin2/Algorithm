@@ -318,6 +318,7 @@
 
   - [BJ 10815 숫자카드](https://gist.github.com/sedin2/c7774a0491bb4761744842db72616710)
   - [BJ 1822 차집합](https://gist.github.com/sedin2/6cb83102339e419adc4c7e96a60e0644)
+  - [BJ 16401 과자나눠주기](https://gist.github.com/sedin2/7bd4c8478cd3f95924543310964e1966)
 
 ## 인프런 자바(Java) 알고리즘 문제풀이: 코딩 테스트 대비
 
