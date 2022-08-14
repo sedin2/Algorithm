@@ -320,6 +320,7 @@
   - [BJ 1822 차집합](https://gist.github.com/sedin2/6cb83102339e419adc4c7e96a60e0644)
   - [BJ 16401 과자나눠주기](https://gist.github.com/sedin2/7bd4c8478cd3f95924543310964e1966)
   - [BJ 2805 나무자르기](https://gist.github.com/sedin2/071294cbe8e203032074966e0de14a3c)
+  - [BJ 18869 멀티버스2](https://gist.github.com/sedin2/b08035cec2fafdf2d886a7a3361a66db)
 
 ## 인프런 자바(Java) 알고리즘 문제풀이: 코딩 테스트 대비
 
