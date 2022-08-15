@@ -316,6 +316,7 @@
 
 - 이분탐색
 
+  - [BJ 1654 랜선 자르기](https://gist.github.com/sedin2/1b265930dc876d86afe0742d5d054b18)
   - [BJ 10815 숫자카드](https://gist.github.com/sedin2/c7774a0491bb4761744842db72616710)
   - [BJ 1822 차집합](https://gist.github.com/sedin2/6cb83102339e419adc4c7e96a60e0644)
   - [BJ 16401 과자나눠주기](https://gist.github.com/sedin2/7bd4c8478cd3f95924543310964e1966)
