@@ -234,7 +234,7 @@
 - BFS
 
   - [BJ 1926 그림](https://gist.github.com/sedin2/3a8588b1ef55bfecd6e3c7612b48c0b5) // 220915 다시풀기
-  - [BJ 2178 미로탐색](https://gist.github.com/sedin2/5917188b6f2b9f910efa5ea743ed22d9)
+  - [BJ 2178 미로탐색](https://gist.github.com/sedin2/5917188b6f2b9f910efa5ea743ed22d9) // 220915 다시풀기
   - [BJ 7576 토마토](https://gist.github.com/sedin2/7c09e85bbb5e735efab6818b795f8354)
   - [BJ 4179 불!](https://gist.github.com/sedin2/ddef9ea253a76475e1cebdb852aab877)
   - [BJ 1697 숨바꼭질](https://gist.github.com/sedin2/bd7c1a747cf25b8d450cf03282c9744d)
