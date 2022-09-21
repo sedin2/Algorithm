@@ -169,6 +169,7 @@
 - [BJ 1149 RGB 거리](https://gist.github.com/sedin2/d4880ce179286bd66aee12eb0bd4245a)
 - [BJ 1463 1로만들기](https://gist.github.com/sedin2/0f0a8de509aa839cdf4cbc3f50917120)
 - [BJ 1929 소수구하기](https://gist.github.com/sedin2/b3097cd1c715cff64381ab7bb1497db4)
+- [2018 카카오 블라인드 1. 비밀지도](https://gist.github.com/sedin2/67d8718ab430476dad0a1692f2ec81c5)
 
 ## 알고리즘 IM형 필수 문제
 
