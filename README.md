@@ -170,6 +170,7 @@
 - [BJ 1463 1로만들기](https://gist.github.com/sedin2/0f0a8de509aa839cdf4cbc3f50917120)
 - [BJ 1929 소수구하기](https://gist.github.com/sedin2/b3097cd1c715cff64381ab7bb1497db4)
 - [2018 카카오 블라인드 1. 비밀지도](https://gist.github.com/sedin2/67d8718ab430476dad0a1692f2ec81c5)
+- [2018 카카오 블라인드 2. 캐시](https://gist.github.com/sedin2/0a58ae1b2cc8cff4247d2fbcf3575bc7)
 
 ## 알고리즘 IM형 필수 문제
 
