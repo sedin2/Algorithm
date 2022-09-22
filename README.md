@@ -173,6 +173,7 @@
 - [2018 카카오 블라인드 2. 캐시](https://gist.github.com/sedin2/0a58ae1b2cc8cff4247d2fbcf3575bc7)
 - [2018 카카오 블라인드 3. 뉴스 클러스터링](https://gist.github.com/sedin2/91869b6e1ead0c5dbc94655a33d97bea)
 - [2018 카카오 블라인드 4. 다트 게임](https://gist.github.com/sedin2/fe186a8a1b14a4faede0ca545de511fd)
+- [2018 카카오 블라인드 5. 프렌즈4블록](https://gist.github.com/sedin2/47e0245c86de41949ff63c4ce88ffd63)
 
 ## 알고리즘 IM형 필수 문제
 
