@@ -170,6 +170,11 @@
 - [BJ 1463 1로만들기](https://gist.github.com/sedin2/0f0a8de509aa839cdf4cbc3f50917120)
 - [BJ 1929 소수구하기](https://gist.github.com/sedin2/b3097cd1c715cff64381ab7bb1497db4)
 - [삼쩜삼 코테](https://gist.github.com/sedin2/b08a090557287e2f1f1987c15a749f20)
+- [2018 카카오 블라인드 1. 비밀지도](https://gist.github.com/sedin2/67d8718ab430476dad0a1692f2ec81c5)
+- [2018 카카오 블라인드 2. 캐시](https://gist.github.com/sedin2/0a58ae1b2cc8cff4247d2fbcf3575bc7)
+- [2018 카카오 블라인드 3. 뉴스 클러스터링](https://gist.github.com/sedin2/91869b6e1ead0c5dbc94655a33d97bea)
+- [2018 카카오 블라인드 4. 다트 게임](https://gist.github.com/sedin2/fe186a8a1b14a4faede0ca545de511fd)
+- [2018 카카오 블라인드 5. 프렌즈4블록](https://gist.github.com/sedin2/47e0245c86de41949ff63c4ce88ffd63)
 
 ## 알고리즘 IM형 필수 문제
 
@@ -257,6 +262,7 @@
 
 - 구현
 
+  - [BJ 12100 2048 (Easy)](https://gist.github.com/sedin2/c872d0864fe92695f0688f40e7ab44d4)
   - [BJ 14891 톱니바퀴](https://gist.github.com/sedin2/c2335be8b2bd7219b9af942563374052)
   - [BJ 15662 톱니바퀴2](https://gist.github.com/sedin2/b747bd57ad283d905666efc0ca19ce49)
   - [BJ 11559 PuyoPuyo](https://gist.github.com/sedin2/d44c501ca5ad4bde64afb83c40072b4f)
