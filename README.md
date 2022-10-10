@@ -352,3 +352,7 @@
 - [2-7. 점수계산](https://gist.github.com/sedin2/0f2afc1ff6d318b7d5250019c30e6ffe)
 - [2-8. 등수구하기](https://gist.github.com/sedin2/04062d02ba6bb46b34f64dfb3f2b73bb)
 - [2-9. 격자판 최대합](https://gist.github.com/sedin2/4631e01e89bf9052a46b12b9cf614ca5)
+
+## [구름 알고리즘 먼데이 챌린지](https://level.goorm.io/level/challenge?utm_source=inhouse_edu_p&utm_medium=edu_banner&utm_campaign=level_challenge&utm_content=main&_ga=2.82708242.508236584.1665383006-1495972672.1652676219)
+
+- [Week2-1](https://gist.github.com/sedin2/363f6c3922fda1fa825925f47d260b31)
