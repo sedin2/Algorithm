@@ -356,3 +356,4 @@
 ## [구름 알고리즘 먼데이 챌린지](https://level.goorm.io/level/challenge?utm_source=inhouse_edu_p&utm_medium=edu_banner&utm_campaign=level_challenge&utm_content=main&_ga=2.82708242.508236584.1665383006-1495972672.1652676219)
 
 - [Week2-1](https://gist.github.com/sedin2/363f6c3922fda1fa825925f47d260b31)
+- [Week2-2](https://gist.github.com/sedin2/bb5a061d29881899fb9609ddfc489e16)
