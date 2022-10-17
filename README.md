@@ -365,3 +365,4 @@
 
 - [Week3-1](https://gist.github.com/sedin2/e4b6d3838bb263c9f725055f6f75f87e)
 - [Week3-2](https://gist.github.com/sedin2/24d1381341d241fc754b61464002e99b)
+- [Week3-3](https://gist.github.com/sedin2/ae9b3420e5a83ef4c97ad0e9173dc992)
