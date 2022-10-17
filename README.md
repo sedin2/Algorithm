@@ -362,3 +362,5 @@
 - [Week2-2](https://gist.github.com/sedin2/bb5a061d29881899fb9609ddfc489e16)
 - [Week2-3](https://gist.github.com/sedin2/ba58faa016cf416acc72541b315149a3)
 - [Week2-4](https://gist.github.com/sedin2/4ffbb6e4d417cc1a56647587bb6c3d0c)
+
+- [Week3-1](https://gist.github.com/sedin2/e4b6d3838bb263c9f725055f6f75f87e)
