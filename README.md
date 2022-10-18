@@ -317,6 +317,7 @@
   - [BJ 1149 RGB거리](https://gist.github.com/sedin2/9096a22748d6b60b1f52acf19eca1d84)
   - [BJ 11726 2xn 타일링](https://gist.github.com/sedin2/e1649647ea6d0c1ac1a53c003dfdf4c0)
   - [BJ 11659 구간 합 구하기4](https://gist.github.com/sedin2/b346ae64b4a1ceb831ba4e2b85ab8cfb)
+  - [BJ 12852 1로 만들기 2](https://gist.github.com/sedin2/e4c48a08b05a8217e337a4ae2c147cac)
   - [BJ 1003 피보나치 함수](https://gist.github.com/sedin2/37a06697c83d6d7e8b0584fa16a6a8a6)
   - [BJ 1932 정수 삼각형](https://gist.github.com/sedin2/aced13d2484c145475525ac9e0078851)
 
