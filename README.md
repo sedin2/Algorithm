@@ -320,6 +320,7 @@
   - [BJ 12852 1로 만들기 2](https://gist.github.com/sedin2/e4c48a08b05a8217e337a4ae2c147cac)
   - [BJ 1003 피보나치 함수](https://gist.github.com/sedin2/37a06697c83d6d7e8b0584fa16a6a8a6)
   - [BJ 1932 정수 삼각형](https://gist.github.com/sedin2/aced13d2484c145475525ac9e0078851)
+  - [BJ 11727 2xn 타일링 2](https://gist.github.com/sedin2/786e30ed7940166989d842fa04cd6d8f)
 
 - 그리디
 
