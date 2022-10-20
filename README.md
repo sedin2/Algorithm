@@ -321,6 +321,7 @@
   - [BJ 1003 피보나치 함수](https://gist.github.com/sedin2/37a06697c83d6d7e8b0584fa16a6a8a6)
   - [BJ 1932 정수 삼각형](https://gist.github.com/sedin2/aced13d2484c145475525ac9e0078851)
   - [BJ 11727 2xn 타일링 2](https://gist.github.com/sedin2/786e30ed7940166989d842fa04cd6d8f)
+  - [BJ 2193 이친수](https://gist.github.com/sedin2/ae82b6f6de8c0399e40b5c91f367d48b)
 
 - 그리디
 
