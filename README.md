@@ -323,6 +323,7 @@
   - [BJ 11727 2xn 타일링 2](https://gist.github.com/sedin2/786e30ed7940166989d842fa04cd6d8f)
   - [BJ 2193 이친수](https://gist.github.com/sedin2/ae82b6f6de8c0399e40b5c91f367d48b)
   - [BJ 1912 연속합](https://gist.github.com/sedin2/f0d6843d5ade489f6820423f7f3ad057)
+  - [BJ 11055 가장 큰 증가 부분 수열](https://gist.github.com/sedin2/296d02a778f491ff97682538ef8f85d6)
 
 - 그리디
 
