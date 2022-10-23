@@ -327,6 +327,7 @@
   - [BJ 11053 가장 긴 증가하는 부분 수열](https://gist.github.com/sedin2/bfcdd9d0f8762ab12aef93eb67352d19)
   - [BJ 9461 파도반 수열](https://gist.github.com/sedin2/15481fce90fdfd253ebe9b876b141fae)
   - [BJ 14501 퇴사](https://gist.github.com/sedin2/3083e420fb8f32f85a49e1754efbe300)
+  - [BJ 15486 퇴사2](https://gist.github.com/sedin2/66ee4098e9dec9cf3eb949ba7340c2a5)
 
 - 그리디
 
