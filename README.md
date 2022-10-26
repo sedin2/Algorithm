@@ -92,7 +92,7 @@
     
 </details>
 
-# [SWEA]
+# [문제]
 
 - [D3 3431 준환이의 운동관리](https://gist.github.com/sedin2/cbb83a652e0f9f3076275d6ee278f943)
 - [D3 3499 퍼펙트셔플](https://gist.github.com/sedin2/a4b3e89192b9ced843747ccfb6d0651c)
@@ -175,6 +175,7 @@
 - [2018 카카오 블라인드 3. 뉴스 클러스터링](https://gist.github.com/sedin2/91869b6e1ead0c5dbc94655a33d97bea)
 - [2018 카카오 블라인드 4. 다트 게임](https://gist.github.com/sedin2/fe186a8a1b14a4faede0ca545de511fd)
 - [2018 카카오 블라인드 5. 프렌즈4블록](https://gist.github.com/sedin2/47e0245c86de41949ff63c4ce88ffd63)
+- [Softeer [인증평가(3차) 기출] 플레이페어 암호](https://gist.github.com/sedin2/42693d44abb945d0417bde7ade337277)
 
 ## 알고리즘 IM형 필수 문제
 
