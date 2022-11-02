@@ -349,6 +349,10 @@
 
   - [BJ 7785 회사에 있는 사람](https://gist.github.com/sedin2/cad312cc36196e68fe2110ec9fc34cb8)
   - [BJ 1620 나는야 포켓몬 마스터 이다솜](https://gist.github.com/sedin2/07338614523d4fa7bc5b233ca8177e9c)
+  
+- 그래프
+
+  - [BJ 11724 연결 요소의 개수](https://gist.github.com/sedin2/1b60f687f32f8871e7c5e57625bb9cc7)
 
 ## 인프런 자바(Java) 알고리즘 문제풀이: 코딩 테스트 대비
 
