@@ -358,6 +358,7 @@
   - [BJ 11403 경로 찾기](https://gist.github.com/sedin2/e2ad15ede7378313d3b00fffc034710c)
   - [BJ 2660 회장뽑기](https://gist.github.com/sedin2/df4a44934b5a32b75b53e61638ecdbc8)
   - [BJ 1389 케빈 베이컨의 6단계 법칙](https://gist.github.com/sedin2/029f80e5f0455c407ada14ab34777490)
+  - [BJ 1325 효율적인 해킹](https://gist.github.com/sedin2/ed22aec5b91bacf0fa1050acdba96518)
 
 ## 인프런 자바(Java) 알고리즘 문제풀이: 코딩 테스트 대비
 
