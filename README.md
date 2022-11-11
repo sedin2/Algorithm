@@ -360,6 +360,7 @@
   - [BJ 1389 케빈 베이컨의 6단계 법칙](https://gist.github.com/sedin2/029f80e5f0455c407ada14ab34777490)
   - [BJ 1325 효율적인 해킹](https://gist.github.com/sedin2/ed22aec5b91bacf0fa1050acdba96518)
   - [BJ 6118 숨바꼭질](https://gist.github.com/sedin2/51f408e7d526b8916f6d52c4281e0d7f)
+  - [BJ 1707 이분그래프](https://gist.github.com/sedin2/4f9604a6c053341a8fa7ed000b461311)
 
 ## 인프런 자바(Java) 알고리즘 문제풀이: 코딩 테스트 대비
 
