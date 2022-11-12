@@ -176,6 +176,7 @@
 - [2018 카카오 블라인드 4. 다트 게임](https://gist.github.com/sedin2/fe186a8a1b14a4faede0ca545de511fd)
 - [2018 카카오 블라인드 5. 프렌즈4블록](https://gist.github.com/sedin2/47e0245c86de41949ff63c4ce88ffd63)
 - [Softeer [인증평가(3차) 기출] 플레이페어 암호](https://gist.github.com/sedin2/42693d44abb945d0417bde7ade337277)
+- [2022 LG CNS Code Monster](https://gist.github.com/sedin2/badadae2d1a5b63ae8f6ae2eb7303a97)
 
 ## 알고리즘 IM형 필수 문제
 
