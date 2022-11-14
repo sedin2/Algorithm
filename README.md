@@ -178,6 +178,7 @@
 - [Softeer [인증평가(3차) 기출] 플레이페어 암호](https://gist.github.com/sedin2/42693d44abb945d0417bde7ade337277)
 - [2022 LG CNS Code Monster](https://gist.github.com/sedin2/badadae2d1a5b63ae8f6ae2eb7303a97)
 - [구름 LEVEL 징검다리 건너기](https://gist.github.com/sedin2/55fd375d0acacfcca8817f01a28e3ae2)
+- [구름 LEVEL 외계인과 용돈기입장](https://gist.github.com/sedin2/22deeb90656ad2592b44caccbc159f73)
 
 ## 알고리즘 IM형 필수 문제
 
