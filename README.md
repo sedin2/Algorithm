@@ -134,7 +134,6 @@
 - [BJ 16236 아기상어](https://gist.github.com/sedin2/873e97ae816f1a76b7e2cdf6a29df08c)
 - [BJ 15686 치킨배달](https://gist.github.com/sedin2/e06aad1b311845c865529d153f9894d7)
 - [BJ 10026 적록색약](https://gist.github.com/sedin2/14024abd9a36ca0f3aef4ae26f04c701)
-- [BJ 1753 최단경로](https://gist.github.com/sedin2/9fe9025f50eb1dae11a6ba4819ddf486)
 - [BJ 1786 찾기](https://gist.github.com/sedin2/711c2c58e1ad44ce07d4d57ee2356c2c)
 - [BJ 2669 직사각형 네개의 합집합의 면적 구하기](https://gist.github.com/sedin2/ca6f4915c09aa559d3a98af719c669bb)
 - [BJ 1244 스위치 켜고 끄기](https://gist.github.com/sedin2/62c07b849978a9a3d4b2c1f77b26d8d0)
@@ -364,6 +363,10 @@
   - [BJ 1325 효율적인 해킹](https://gist.github.com/sedin2/ed22aec5b91bacf0fa1050acdba96518)
   - [BJ 6118 숨바꼭질](https://gist.github.com/sedin2/51f408e7d526b8916f6d52c4281e0d7f)
   - [BJ 1707 이분그래프](https://gist.github.com/sedin2/4f9604a6c053341a8fa7ed000b461311)
+
+- 다익스트라
+
+  - [BJ 1753 최단경로](https://gist.github.com/sedin2/9fe9025f50eb1dae11a6ba4819ddf486)
 
 ## 인프런 자바(Java) 알고리즘 문제풀이: 코딩 테스트 대비
 
