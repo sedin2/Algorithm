@@ -367,6 +367,7 @@
 - 다익스트라
 
   - [BJ 1753 최단경로](https://gist.github.com/sedin2/9fe9025f50eb1dae11a6ba4819ddf486)
+  - [BJ 11779 최소비용 구하기 2](https://gist.github.com/sedin2/7f5a68f67389e4b856ac0d889adb18cb)
 
 ## 인프런 자바(Java) 알고리즘 문제풀이: 코딩 테스트 대비
 
