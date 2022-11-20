@@ -371,6 +371,7 @@
   - [BJ 1238 파티](https://gist.github.com/sedin2/7efab8616d602c586491aced3e8ddbd9)
   - [BJ 1504 특정한 최단 경로](https://gist.github.com/sedin2/780f2fa5391d0321d3bb8d850971e0a1)
   - [BJ 1916 최소비용 구하기](https://gist.github.com/sedin2/527f9c517158f627c7fc1030985e62e2)
+  - [BJ 1261 알고스팟](https://gist.github.com/sedin2/3ee97b7e735b3dfb6e51fea7f14ac295)
 
 ## 인프런 자바(Java) 알고리즘 문제풀이: 코딩 테스트 대비
 
