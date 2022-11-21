@@ -134,8 +134,8 @@
 | :--: | :---------------------------------------------: | :---------------------------------------------------------------------------------------------: |
 | 0x00 |             오리엔테이션 (문제집 X)             |                                                                                                 |
 | 0x01 |        기초 코드 작성 요령 I (문제집 X)         |                                                                                                 |
-| 0x02 |   [기초 코드 작성 요령 II](workbook/0x02.md)    | ![100%](https://progress-bar.dev/27/?scale=27&title=progress&width=500&color=babaca&suffix=/27) |
-| 0x03 |            [배열](workbook/0x03.md)             |  ![100%](https://progress-bar.dev/8/?scale=8&title=progress&width=500&color=babaca&suffix=/8)   |
+| 0x02 |   [기초 코드 작성 요령 II](workbook/0x02.md)    | ![100%](https://progress-bar.dev/0/?scale=27&title=progress&width=500&color=babaca&suffix=/27)  |
+| 0x03 |            [배열](workbook/0x03.md)             |  ![100%](https://progress-bar.dev/5/?scale=8&title=progress&width=500&color=babaca&suffix=/8)   |
 | 0x04 |         [연결 리스트](workbook/0x04.md)         |  ![100%](https://progress-bar.dev/3/?scale=3&title=progress&width=500&color=babaca&suffix=/3)   |
 | 0x05 |            [스택](workbook/0x05.md)             |  ![100%](https://progress-bar.dev/8/?scale=8&title=progress&width=500&color=babaca&suffix=/8)   |
 | 0x06 |             [큐](workbook/0x06.md)              |  ![100%](https://progress-bar.dev/3/?scale=3&title=progress&width=500&color=babaca&suffix=/3)   |
@@ -164,14 +164,6 @@
 | 0x1D |     [다익스트라 알고리즘](workbook/0x1D.md)     | ![100%](https://progress-bar.dev/7/?scale=14&title=progress&width=500&color=babaca&suffix=/14)  |
 | 0x1E |             [KMP](workbook/0x1E.md)             |  ![100%](https://progress-bar.dev/4/?scale=8&title=progress&width=500&color=babaca&suffix=/8)   |
 | 0x1F |           [트라이](workbook/0x1F.md)            | ![100%](https://progress-bar.dev/6/?scale=10&title=progress&width=500&color=babaca&suffix=/10)  |
-
-- 배열
-
-  - [BJ 10808 알파벳개수](https://gist.github.com/sedin2/ad5b22d20f5e671d4b4ea0df61e74fe4)
-  - [BJ 2577 숫자의개수](https://gist.github.com/sedin2/8615f5dfd4c6db10f55f3589252238e4)
-  - [BJ 1475 방번호](https://gist.github.com/sedin2/f62009694e8021f4499fe0de709537f2)
-  - [BJ 3273 두수의합](https://gist.github.com/sedin2/8491a62b311aac81c4bae5ccec8c4b47)
-  - [BJ 10807 개수 세기](https://gist.github.com/sedin2/3b53a2a5bd8267058ca6fc6df42137e9)
 
 - 스택
 
