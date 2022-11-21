@@ -1,97 +1,5 @@
 # algorithm
 
-<details markdown="1">
-<summary>
-
-# [programmers]
-
-</summary>
-
-- LV1.
-
-  [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919?language=java)
-
-  [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921)
-
-  [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918)
-
-  [최댓값 구하기(SQL)](https://programmers.co.kr/learn/courses/30/lessons/59415)
-
-  [모든 레코드 조회하기(SQL)](https://programmers.co.kr/learn/courses/30/lessons/59034)
-
-  [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)
-
-  [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)
-
-  [문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925)
-
-  [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)
-
-  [이름이 없는 동물의 아이디](https://programmers.co.kr/learn/courses/30/lessons/59039)
-
-  [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928)
-
-  [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)
-
-  [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915)
-
-  [동물의 아이디와 이름](https://programmers.co.kr/learn/courses/30/lessons/59403)
-
-  [역순 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/59035)
-
-  [아픈 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59036)
-
-  [어린 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59037)
-
-  [여러 기준으로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/59404)
-
-  [상위 n개 레코드](https://programmers.co.kr/learn/courses/30/lessons/59405)
-
-  [이름이 있는 동물의 아이디](https://programmers.co.kr/learn/courses/30/lessons/59407)
-
-- LV2.
-
-  [탑](https://programmers.co.kr/learn/courses/30/lessons/42588)
-
-  [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)
-
-  [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)
-
-  [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)
-
-  [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)
-
-  [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)
-
-  [중성화 여부 파악하기](https://programmers.co.kr/learn/courses/30/lessons/59409)
-
-  [이름에 el이 들어가는 동물찾기](https://programmers.co.kr/learn/courses/30/lessons/59047)
-
-  [DATETIME에서 DATE로 형 변환](https://programmers.co.kr/learn/courses/30/lessons/59414)
-
-  [최솟값 구하기](https://programmers.co.kr/learn/courses/30/lessons/59038)
-
-  [동물 수 구하기](https://programmers.co.kr/learn/courses/30/lessons/59406)
-
-  [고양이와 개는 몇 마리 있을까](https://programmers.co.kr/learn/courses/30/lessons/59040)
-
-  [NULL 처리하기](https://programmers.co.kr/learn/courses/30/lessons/59410)
-
-  [중복 제거하기](https://programmers.co.kr/learn/courses/30/lessons/59408)
-
-- LV3.
-
-</details>
-
-<details markdown="1">
-<summary>
-
-# [BaekJoon]
-
-</summary>
-    
-</details>
-
 # [문제]
 
 - [D3 3431 준환이의 운동관리](https://gist.github.com/sedin2/cbb83a652e0f9f3076275d6ee278f943)
@@ -218,7 +126,44 @@
 29. 백준 2840 행운의 바퀴 https://www.acmicpc.net/problem/2840
 30. 백준 1417 국회의원 선거 https://www.acmicpc.net/problem/1417
 
-## BaaarkingDog Algorithm
+## BaaarkingDog Algorithm 문제집
+
+# 문제집
+
+| 번호 |                      주제                       |                                             진행도                                              |
+| :--: | :---------------------------------------------: | :---------------------------------------------------------------------------------------------: |
+| 0x00 |             오리엔테이션 (문제집 X)             |                                                                                                 |
+| 0x01 |        기초 코드 작성 요령 I (문제집 X)         |                                                                                                 |
+| 0x02 |   [기초 코드 작성 요령 II](workbook/0x02.md)    | ![100%](https://progress-bar.dev/27/?scale=27&title=progress&width=500&color=babaca&suffix=/27) |
+| 0x03 |            [배열](workbook/0x03.md)             |  ![100%](https://progress-bar.dev/8/?scale=8&title=progress&width=500&color=babaca&suffix=/8)   |
+| 0x04 |         [연결 리스트](workbook/0x04.md)         |  ![100%](https://progress-bar.dev/3/?scale=3&title=progress&width=500&color=babaca&suffix=/3)   |
+| 0x05 |            [스택](workbook/0x05.md)             |  ![100%](https://progress-bar.dev/8/?scale=8&title=progress&width=500&color=babaca&suffix=/8)   |
+| 0x06 |             [큐](workbook/0x06.md)              |  ![100%](https://progress-bar.dev/3/?scale=3&title=progress&width=500&color=babaca&suffix=/3)   |
+| 0x07 |             [덱](workbook/0x07.md)              |  ![100%](https://progress-bar.dev/4/?scale=4&title=progress&width=500&color=babaca&suffix=/4)   |
+| 0x08 | [스택의 활용(수식의 괄호 쌍)](workbook/0x08.md) |  ![100%](https://progress-bar.dev/5/?scale=5&title=progress&width=500&color=babaca&suffix=/5)   |
+| 0x09 |             [BFS](workbook/0x09.md)             | ![100%](https://progress-bar.dev/20/?scale=30&title=progress&width=500&color=babaca&suffix=/30) |
+| 0x0A |                 DFS (문제집 X)                  |                                                                                                 |
+| 0x0B |            [재귀](workbook/0x0B.md)             | ![100%](https://progress-bar.dev/10/?scale=10&title=progress&width=500&color=babaca&suffix=/10) |
+| 0x0C |          [백트래킹](workbook/0x0C.md)           | ![100%](https://progress-bar.dev/20/?scale=20&title=progress&width=500&color=babaca&suffix=/20) |
+| 0x0D |         [시뮬레이션](workbook/0x0D.md)          | ![100%](https://progress-bar.dev/35/?scale=61&title=progress&width=500&color=babaca&suffix=/61) |
+| 0x0E |           [정렬 I](workbook/0x0E.md)            |  ![100%](https://progress-bar.dev/8/?scale=8&title=progress&width=500&color=babaca&suffix=/8)   |
+| 0x0F |           [정렬 II](workbook/0x0F.md)           |  ![100%](https://progress-bar.dev/9/?scale=9&title=progress&width=500&color=babaca&suffix=/9)   |
+| 0x10 |     [다이나믹 프로그래밍](workbook/0x10.md)     | ![100%](https://progress-bar.dev/44/?scale=44&title=progress&width=500&color=babaca&suffix=/44) |
+| 0x11 |           [그리디](workbook/0x11.md)            | ![100%](https://progress-bar.dev/17/?scale=17&title=progress&width=500&color=babaca&suffix=/17) |
+| 0x12 |            [수학](workbook/0x12.md)             | ![100%](https://progress-bar.dev/26/?scale=39&title=progress&width=500&color=babaca&suffix=/39) |
+| 0x13 |          [이분탐색](workbook/0x13.md)           | ![100%](https://progress-bar.dev/17/?scale=21&title=progress&width=500&color=babaca&suffix=/21) |
+| 0x14 |          [투 포인터](workbook/0x14.md)          | ![100%](https://progress-bar.dev/8/?scale=11&title=progress&width=500&color=babaca&suffix=/11)  |
+| 0x15 |            [해시](workbook/0x15.md)             | ![100%](https://progress-bar.dev/7/?scale=10&title=progress&width=500&color=babaca&suffix=/10)  |
+| 0x16 |       [이진 검색 트리](workbook/0x16.md)        |  ![100%](https://progress-bar.dev/5/?scale=7&title=progress&width=500&color=babaca&suffix=/7)   |
+| 0x17 |         [우선순위 큐](workbook/0x17.md)         |  ![100%](https://progress-bar.dev/8/?scale=8&title=progress&width=500&color=babaca&suffix=/8)   |
+| 0x18 |           [그래프](workbook/0x18.md)            | ![100%](https://progress-bar.dev/10/?scale=13&title=progress&width=500&color=babaca&suffix=/13) |
+| 0x19 |            [트리](workbook/0x19.md)             | ![100%](https://progress-bar.dev/11/?scale=13&title=progress&width=500&color=babaca&suffix=/13) |
+| 0x1A |          [위상 정렬](workbook/0x1A.md)          |  ![100%](https://progress-bar.dev/3/?scale=7&title=progress&width=500&color=babaca&suffix=/7)   |
+| 0x1B |       [최소 신장 트리](workbook/0x1B.md)        |  ![100%](https://progress-bar.dev/7/?scale=9&title=progress&width=500&color=babaca&suffix=/9)   |
+| 0x1C |      [플로이드 알고리즘](workbook/0x1C.md)      | ![100%](https://progress-bar.dev/8/?scale=15&title=progress&width=500&color=babaca&suffix=/15)  |
+| 0x1D |     [다익스트라 알고리즘](workbook/0x1D.md)     | ![100%](https://progress-bar.dev/7/?scale=14&title=progress&width=500&color=babaca&suffix=/14)  |
+| 0x1E |             [KMP](workbook/0x1E.md)             |  ![100%](https://progress-bar.dev/4/?scale=8&title=progress&width=500&color=babaca&suffix=/8)   |
+| 0x1F |           [트라이](workbook/0x1F.md)            | ![100%](https://progress-bar.dev/6/?scale=10&title=progress&width=500&color=babaca&suffix=/10)  |
 
 - 배열
 
@@ -239,29 +184,6 @@
   - [BJ 10845 큐](https://gist.github.com/sedin2/4ad26c74a75122bcf76f99490f1acf2d)
   - [BJ 18258 큐2](https://gist.github.com/sedin2/f3a65a44f876ac69d00a428517d739d0)
   - [BJ 2164 카드2](https://gist.github.com/sedin2/4f5cb1bd6228a77455b4e0fc6149fb92)
-
-- BFS
-
-  - [BJ 1926 그림](https://gist.github.com/sedin2/3a8588b1ef55bfecd6e3c7612b48c0b5) // 220915 다시풀기
-  - [BJ 2178 미로탐색](https://gist.github.com/sedin2/5917188b6f2b9f910efa5ea743ed22d9) // 220915 다시풀기
-  - [BJ 7576 토마토](https://gist.github.com/sedin2/7c09e85bbb5e735efab6818b795f8354)
-  - [BJ 4179 불!](https://gist.github.com/sedin2/ddef9ea253a76475e1cebdb852aab877)
-  - [BJ 1697 숨바꼭질](https://gist.github.com/sedin2/bd7c1a747cf25b8d450cf03282c9744d)
-  - [BJ 1012 유기농배추](https://gist.github.com/sedin2/9cb9ce68a3ddf28ca73908321b31221e)
-  - [BJ 10026 적록색약](https://gist.github.com/sedin2/ee970830b00b127aff876f256b7d8039)
-  - [BJ 7569 토마토](https://gist.github.com/sedin2/1c83a7544887c7f70b41944b67df2e9a)
-  - [BJ 7562 나이트의이동](https://gist.github.com/sedin2/642e18f98240bba9ca65616d57df6edc)
-  - [BJ 5427 불](https://gist.github.com/sedin2/d23e44328bf7ca3be79040ceb7627516)
-  - [BJ 2583 영역구하기](https://gist.github.com/sedin2/ebdfeee86b5d912579b4852d6fb13978)
-  - [BJ 2667 단지번호붙이기](https://gist.github.com/sedin2/aa87847a1648889a4e8c31f6c0cfdda9)
-  - [BJ 5014 스타트링크](https://gist.github.com/sedin2/7f647f04cb224df7b20542ce47137915)
-  - [BJ 6593 상범빌딩](https://gist.github.com/sedin2/3ddb9954941ca02eb8012b8dcefa93a1)
-  - [BJ 2206 벽부수고이동하기](https://gist.github.com/sedin2/aee705eb3717534824a6bfb6917f3ec3)
-  - [BJ 9205 맥주마시면서걸어가기](https://gist.github.com/sedin2/9d4b4c040f2b20c03bb97b67195bf893)
-  - [BJ 9466 텀프로젝트](https://gist.github.com/sedin2/aef922b544809f8592fa2b7225f401d0)
-  - [BJ 2573 빙산](https://gist.github.com/sedin2/20518d6f27c72bc8e02772aa3ae76b22)
-  - [BJ 2146 다리만들기](https://gist.github.com/sedin2/300f24ba1a67e7c264e1a2839f6e9645)
-  - [BJ 1600 말이되고픈원숭이](https://gist.github.com/sedin2/ff315f955dfc5692075df8f5a8ac1c06)
 
 - 구현
 
@@ -351,7 +273,7 @@
 
   - [BJ 7785 회사에 있는 사람](https://gist.github.com/sedin2/cad312cc36196e68fe2110ec9fc34cb8)
   - [BJ 1620 나는야 포켓몬 마스터 이다솜](https://gist.github.com/sedin2/07338614523d4fa7bc5b233ca8177e9c)
-  
+
 - 그래프
 
   - [BJ 11724 연결 요소의 개수](https://gist.github.com/sedin2/1b60f687f32f8871e7c5e57625bb9cc7)
