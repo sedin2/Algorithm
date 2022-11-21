@@ -1,0 +1,20 @@
+# Inflearn CodingTest With Java
+
+- [1-5. 특정 문자 뒤집기](https://gist.github.com/sedin2/1bd9061bc87d7e14eb957573eee071be)
+- [1-6. 중복 문자 제거](https://gist.github.com/sedin2/9deca8f7329ea5b880b5bbb5c74ae927)
+- [1-7. 회문 문자열](https://gist.github.com/sedin2/8306f3a99ebda7086dda436b332f8193)
+- [1-8. 유효한 팰린드롬](https://gist.github.com/sedin2/14168f68753a02a301a06727df76a9ea)
+- [1-9. 숫자만 추출](https://gist.github.com/sedin2/c6a35985f041ef774461532c0ee224ff)
+- [1-10. 가장 짧은 문자거리](https://gist.github.com/sedin2/7fca812df03088ce1c1adf3ef8eead7f)
+- [1-11. 문자열 압축](https://gist.github.com/sedin2/9062c17305c440746c7f5e1b598d2be8)
+- [1-12. 암호](https://gist.github.com/sedin2/bb2c46a1505298c0b0c15bfad1328b70)
+
+- [2-1. 큰 수 출력하기](https://gist.github.com/sedin2/55b3f196dde670018780db6152fe4b95)
+- [2-2. 보이는 학생](https://gist.github.com/sedin2/827ce44d07186b41e101061f72c1aa8d)
+- [2-3. 가위 바위 보](https://gist.github.com/sedin2/810e7314cbc7f62ca99ab9ab37c7d988)
+- [2-4. 피보나치수열](https://gist.github.com/sedin2/fc735b1f2ca605383cb9ee88624df5cd)
+- [2-5. 소수(에라토스테네스 체)](https://gist.github.com/sedin2/ac3d75384857d581fa75648c24b35590)
+- [2-6. 뒤집은 소수](https://gist.github.com/sedin2/fd39cafd4a623c5528623cb885cf016b)
+- [2-7. 점수계산](https://gist.github.com/sedin2/0f2afc1ff6d318b7d5250019c30e6ffe)
+- [2-8. 등수구하기](https://gist.github.com/sedin2/04062d02ba6bb46b34f64dfb3f2b73bb)
+- [2-9. 격자판 최대합](https://gist.github.com/sedin2/4631e01e89bf9052a46b12b9cf614ca5)
