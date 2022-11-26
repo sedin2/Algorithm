@@ -163,6 +163,7 @@
   - [BJ 1261 알고스팟](https://gist.github.com/sedin2/3ee97b7e735b3dfb6e51fea7f14ac295)
   - [BJ 17835 면접보는 승범이네](https://gist.github.com/sedin2/c5075f9baa75ac0461f055c16a9447a4)
   - [BJ 24042 횡단보도](https://gist.github.com/sedin2/d167c98afe24c5b6741a4427382e6df8)
+  - [BJ 1162 도로포장](https://gist.github.com/sedin2/38979165e93751395c50953b7e1db910)
 
 - 우선순위 큐
   - [BJ 1417 국회의원선거](https://gist.github.com/sedin2/a65b8092f13756b76f457948d8520d85)
