@@ -162,6 +162,7 @@
   - [BJ 1916 최소비용 구하기](https://gist.github.com/sedin2/527f9c517158f627c7fc1030985e62e2)
   - [BJ 1261 알고스팟](https://gist.github.com/sedin2/3ee97b7e735b3dfb6e51fea7f14ac295)
   - [BJ 17835 면접보는 승범이네](https://gist.github.com/sedin2/c5075f9baa75ac0461f055c16a9447a4)
+  - [BJ 24042 횡단보도](https://gist.github.com/sedin2/d167c98afe24c5b6741a4427382e6df8)
 
 - 우선순위 큐
   - [BJ 1417 국회의원선거](https://gist.github.com/sedin2/a65b8092f13756b76f457948d8520d85)
