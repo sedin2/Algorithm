@@ -33,7 +33,7 @@
 | 0x1A |          [위상 정렬](workbook/0x1A.md)          |  ![100%](https://progress-bar.dev/3/?scale=7&title=progress&width=500&color=babaca&suffix=/7)   |
 | 0x1B |       [최소 신장 트리](workbook/0x1B.md)        |  ![100%](https://progress-bar.dev/7/?scale=9&title=progress&width=500&color=babaca&suffix=/9)   |
 | 0x1C |      [플로이드 알고리즘](workbook/0x1C.md)      | ![100%](https://progress-bar.dev/8/?scale=15&title=progress&width=500&color=babaca&suffix=/15)  |
-| 0x1D |     [다익스트라 알고리즘](workbook/0x1D.md)     | ![100%](https://progress-bar.dev/7/?scale=14&title=progress&width=500&color=babaca&suffix=/14)  |
+| 0x1D |     [다익스트라 알고리즘](workbook/0x1D.md)     | ![100%](https://progress-bar.dev/10/?scale=14&title=progress&width=500&color=babaca&suffix=/14) |
 | 0x1E |             [KMP](workbook/0x1E.md)             |  ![100%](https://progress-bar.dev/4/?scale=8&title=progress&width=500&color=babaca&suffix=/8)   |
 | 0x1F |           [트라이](workbook/0x1F.md)            | ![100%](https://progress-bar.dev/6/?scale=10&title=progress&width=500&color=babaca&suffix=/10)  |
 
@@ -152,19 +152,6 @@
   - [BJ 1325 효율적인 해킹](https://gist.github.com/sedin2/ed22aec5b91bacf0fa1050acdba96518)
   - [BJ 6118 숨바꼭질](https://gist.github.com/sedin2/51f408e7d526b8916f6d52c4281e0d7f)
   - [BJ 1707 이분그래프](https://gist.github.com/sedin2/4f9604a6c053341a8fa7ed000b461311)
-
-- 다익스트라
-
-  - [BJ 1753 최단경로](https://gist.github.com/sedin2/9fe9025f50eb1dae11a6ba4819ddf486)
-  - [BJ 11779 최소비용 구하기 2](https://gist.github.com/sedin2/7f5a68f67389e4b856ac0d889adb18cb)
-  - [BJ 1238 파티](https://gist.github.com/sedin2/7efab8616d602c586491aced3e8ddbd9)
-  - [BJ 1504 특정한 최단 경로](https://gist.github.com/sedin2/780f2fa5391d0321d3bb8d850971e0a1)
-  - [BJ 1916 최소비용 구하기](https://gist.github.com/sedin2/527f9c517158f627c7fc1030985e62e2)
-  - [BJ 1261 알고스팟](https://gist.github.com/sedin2/3ee97b7e735b3dfb6e51fea7f14ac295)
-  - [BJ 17835 면접보는 승범이네](https://gist.github.com/sedin2/c5075f9baa75ac0461f055c16a9447a4)
-  - [BJ 24042 횡단보도](https://gist.github.com/sedin2/d167c98afe24c5b6741a4427382e6df8)
-  - [BJ 1162 도로포장](https://gist.github.com/sedin2/38979165e93751395c50953b7e1db910)
-  - [BJ 1854 K번째 최단경로 찾기](https://gist.github.com/sedin2/4e1e20a8185f8161201ecce9691557c7)
 
 - 우선순위 큐
   - [BJ 1417 국회의원선거](https://gist.github.com/sedin2/a65b8092f13756b76f457948d8520d85)
