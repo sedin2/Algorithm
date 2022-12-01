@@ -161,6 +161,7 @@
   - [BJ 11780 플로이드2](https://gist.github.com/sedin2/22e5a72f866cc57c0cc44882cbe93b6a)
   - [BJ 14938 서강그라운드](https://gist.github.com/sedin2/7c822c780dc5161ff811306329721d28)
   - [BJ 21940 가운데에서 만나기](https://gist.github.com/sedin2/93ed555e2eb64018cb5af4bcd50d97e9)
+  - [BJ 17182 우주 탐사선](https://gist.github.com/sedin2/569cd8479dfdced2714f368fc37e026e)
 
 |                                     주제                                      |
 | :---------------------------------------------------------------------------: |
