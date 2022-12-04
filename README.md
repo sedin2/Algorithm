@@ -164,6 +164,7 @@
   - [BJ 17182 우주 탐사선](https://gist.github.com/sedin2/569cd8479dfdced2714f368fc37e026e)
   - [BJ 13168 내일로 여행](https://gist.github.com/sedin2/77d41d443dd95da74b21c970fbab0181)
   - [BJ 1956 운동](https://gist.github.com/sedin2/6605f32b02ecb17c856bf3bd589134e3)
+  - [BJ 11562 백양로 브레이크](https://gist.github.com/sedin2/b26a316e4d01ce8b76063f07acb0d663)
 
 |                                     주제                                      |
 | :---------------------------------------------------------------------------: |
