@@ -43,12 +43,6 @@
   - [BJ 10773 제로](https://gist.github.com/sedin2/8da061e4089244c3763b0ce832456b11)
   - [BJ 1874 스택수열](https://gist.github.com/sedin2/de986d3a8ca4d6b231b33bf896ce2ef4)
 
-- 큐
-
-  - [BJ 10845 큐](https://gist.github.com/sedin2/4ad26c74a75122bcf76f99490f1acf2d)
-  - [BJ 18258 큐2](https://gist.github.com/sedin2/f3a65a44f876ac69d00a428517d739d0)
-  - [BJ 2164 카드2](https://gist.github.com/sedin2/4f5cb1bd6228a77455b4e0fc6149fb92)
-
 - 구현
 
   - [BJ 12100 2048 (Easy)](https://gist.github.com/sedin2/c872d0864fe92695f0688f40e7ab44d4)
