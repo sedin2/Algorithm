@@ -165,6 +165,7 @@
   - [BJ 13168 내일로 여행](https://gist.github.com/sedin2/77d41d443dd95da74b21c970fbab0181)
   - [BJ 1956 운동](https://gist.github.com/sedin2/6605f32b02ecb17c856bf3bd589134e3)
   - [BJ 11562 백양로 브레이크](https://gist.github.com/sedin2/b26a316e4d01ce8b76063f07acb0d663)
+  - [BJ 1507 궁금한 민호](https://gist.github.com/sedin2/0081f7c9fd1336267a172f4c51ecd4bf)
 
 |                                     주제                                      |
 | :---------------------------------------------------------------------------: |
