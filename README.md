@@ -32,7 +32,7 @@
 | 0x19 |            [트리](workbook/0x19.md)             | ![100%](https://progress-bar.dev/11/?scale=13&title=progress&width=500&color=babaca&suffix=/13) |
 | 0x1A |          [위상 정렬](workbook/0x1A.md)          |  ![100%](https://progress-bar.dev/3/?scale=7&title=progress&width=500&color=babaca&suffix=/7)   |
 | 0x1B |       [최소 신장 트리](workbook/0x1B.md)        |  ![100%](https://progress-bar.dev/7/?scale=9&title=progress&width=500&color=babaca&suffix=/9)   |
-| 0x1C |      [플로이드 알고리즘](workbook/0x1C.md)      | ![100%](https://progress-bar.dev/8/?scale=15&title=progress&width=500&color=babaca&suffix=/15)  |
+| 0x1C |      [플로이드 알고리즘](workbook/0x1C.md)      | ![100%](https://progress-bar.dev/9/?scale=15&title=progress&width=500&color=babaca&suffix=/15)  |
 | 0x1D |     [다익스트라 알고리즘](workbook/0x1D.md)     | ![100%](https://progress-bar.dev/10/?scale=14&title=progress&width=500&color=babaca&suffix=/14) |
 | 0x1E |             [KMP](workbook/0x1E.md)             |  ![100%](https://progress-bar.dev/4/?scale=8&title=progress&width=500&color=babaca&suffix=/8)   |
 | 0x1F |           [트라이](workbook/0x1F.md)            | ![100%](https://progress-bar.dev/6/?scale=10&title=progress&width=500&color=babaca&suffix=/10)  |
@@ -155,17 +155,6 @@
 
 - 우선순위 큐
   - [BJ 1417 국회의원선거](https://gist.github.com/sedin2/a65b8092f13756b76f457948d8520d85)
-  
-- 플로이드
-  - [BJ 11404 플로이드](https://gist.github.com/sedin2/f62ad043c7bd5b63896fb41de97c2fe8)
-  - [BJ 11780 플로이드2](https://gist.github.com/sedin2/22e5a72f866cc57c0cc44882cbe93b6a)
-  - [BJ 14938 서강그라운드](https://gist.github.com/sedin2/7c822c780dc5161ff811306329721d28)
-  - [BJ 21940 가운데에서 만나기](https://gist.github.com/sedin2/93ed555e2eb64018cb5af4bcd50d97e9)
-  - [BJ 17182 우주 탐사선](https://gist.github.com/sedin2/569cd8479dfdced2714f368fc37e026e)
-  - [BJ 13168 내일로 여행](https://gist.github.com/sedin2/77d41d443dd95da74b21c970fbab0181)
-  - [BJ 1956 운동](https://gist.github.com/sedin2/6605f32b02ecb17c856bf3bd589134e3)
-  - [BJ 11562 백양로 브레이크](https://gist.github.com/sedin2/b26a316e4d01ce8b76063f07acb0d663)
-  - [BJ 1507 궁금한 민호](https://gist.github.com/sedin2/0081f7c9fd1336267a172f4c51ecd4bf)
 
 |                                     주제                                      |
 | :---------------------------------------------------------------------------: |
