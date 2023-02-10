@@ -154,6 +154,7 @@
   - [격자 안에서 단일 객체를 이동](https://gist.github.com/sedin2/139b8d46dc59a21c125035381608e441)
   - [떨어지는 1자 블록](https://gist.github.com/sedin2/3cd9ae9ef9d6ab39d35ea2397eebb330)
   - [벽 짚고 미로 탈출하기](https://gist.github.com/sedin2/54849e5102c5a6569a7890327ecf14c2)
+  - [주사위 던지기](https://gist.github.com/sedin2/af9e7a58ba35757c41462d04aaaffb51)
 
 |                                     주제                                      |
 | :---------------------------------------------------------------------------: |
