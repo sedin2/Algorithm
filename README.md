@@ -156,6 +156,7 @@
   - [벽 짚고 미로 탈출하기](https://gist.github.com/sedin2/54849e5102c5a6569a7890327ecf14c2)
   - [주사위 던지기](https://gist.github.com/sedin2/af9e7a58ba35757c41462d04aaaffb51)
   - [대폭발](https://gist.github.com/sedin2/43474e63ad6f4502ae2c7c4f134fcd4a)
+  - [뱀은 사과를 좋아해](https://gist.github.com/sedin2/174bad0ab5738cdaa2b78636a03607b2)
 
 |                                     주제                                      |
 | :---------------------------------------------------------------------------: |
