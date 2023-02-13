@@ -157,6 +157,7 @@
   - [주사위 던지기](https://gist.github.com/sedin2/af9e7a58ba35757c41462d04aaaffb51)
   - [대폭발](https://gist.github.com/sedin2/43474e63ad6f4502ae2c7c4f134fcd4a)
   - [뱀은 사과를 좋아해](https://gist.github.com/sedin2/174bad0ab5738cdaa2b78636a03607b2)
+  - [핀볼게임](https://gist.github.com/sedin2/86d24f3a7d6dbb05299e8f3a34618e28)
 
 |                                     주제                                      |
 | :---------------------------------------------------------------------------: |
