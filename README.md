@@ -158,6 +158,7 @@
   - [대폭발](https://gist.github.com/sedin2/43474e63ad6f4502ae2c7c4f134fcd4a)
   - [뱀은 사과를 좋아해](https://gist.github.com/sedin2/174bad0ab5738cdaa2b78636a03607b2)
   - [핀볼게임](https://gist.github.com/sedin2/86d24f3a7d6dbb05299e8f3a34618e28)
+  - [숫자가 가장 큰 인접한 곳으로 동시에 이동](https://gist.github.com/sedin2/cd2dca755a2d7ba13a9d0a63970958a0)
 
 |                                     주제                                      |
 | :---------------------------------------------------------------------------: |
