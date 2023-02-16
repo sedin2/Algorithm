@@ -151,14 +151,19 @@
   - [BJ 1417 국회의원선거](https://gist.github.com/sedin2/a65b8092f13756b76f457948d8520d85)
   
 - 코드트리
-  - [격자 안에서 단일 객체를 이동](https://gist.github.com/sedin2/139b8d46dc59a21c125035381608e441)
-  - [떨어지는 1자 블록](https://gist.github.com/sedin2/3cd9ae9ef9d6ab39d35ea2397eebb330)
-  - [벽 짚고 미로 탈출하기](https://gist.github.com/sedin2/54849e5102c5a6569a7890327ecf14c2)
-  - [주사위 던지기](https://gist.github.com/sedin2/af9e7a58ba35757c41462d04aaaffb51)
-  - [대폭발](https://gist.github.com/sedin2/43474e63ad6f4502ae2c7c4f134fcd4a)
-  - [뱀은 사과를 좋아해](https://gist.github.com/sedin2/174bad0ab5738cdaa2b78636a03607b2)
-  - [핀볼게임](https://gist.github.com/sedin2/86d24f3a7d6dbb05299e8f3a34618e28)
-  - [숫자가 가장 큰 인접한 곳으로 동시에 이동](https://gist.github.com/sedin2/cd2dca755a2d7ba13a9d0a63970958a0)
+  - 시뮬레이션
+    - **격자안에서 단일 객체를 이동**
+    - [격자 안에서 단일 객체를 이동](https://gist.github.com/sedin2/139b8d46dc59a21c125035381608e441)
+    - [떨어지는 1자 블록](https://gist.github.com/sedin2/3cd9ae9ef9d6ab39d35ea2397eebb330)
+    - [벽 짚고 미로 탈출하기](https://gist.github.com/sedin2/54849e5102c5a6569a7890327ecf14c2)
+    - [주사위 던지기](https://gist.github.com/sedin2/af9e7a58ba35757c41462d04aaaffb51)
+    - [대폭발](https://gist.github.com/sedin2/43474e63ad6f4502ae2c7c4f134fcd4a)
+    - [뱀은 사과를 좋아해](https://gist.github.com/sedin2/174bad0ab5738cdaa2b78636a03607b2)
+    - [핀볼게임](https://gist.github.com/sedin2/86d24f3a7d6dbb05299e8f3a34618e28)
+  
+    - **격자안에서 여러 객체를 이동**
+    - [숫자가 가장 큰 인접한 곳으로 동시에 이동](https://gist.github.com/sedin2/cd2dca755a2d7ba13a9d0a63970958a0)
+    - [숫자의 순차적 이동](https://gist.github.com/sedin2/7d072ea6f186e98e270f9063ef5ef375)
 
 |                                     주제                                      |
 | :---------------------------------------------------------------------------: |
