@@ -166,6 +166,7 @@
     - [숫자의 순차적 이동](https://gist.github.com/sedin2/7d072ea6f186e98e270f9063ef5ef375)
     - [벽이 있는 충돌 실험](https://gist.github.com/sedin2/b5cf10ffc402aa918c4676198ce8d9b0)
     - [쌓인 숫자의 순차적 이동](https://gist.github.com/sedin2/37251a269eafe37eb82a8b18742d2e3b)
+    - [구슬의 이동](https://gist.github.com/sedin2/c7d3414db3c7f920cb17ebf3c945b33c)
 
 |                                     주제                                      |
 | :---------------------------------------------------------------------------: |
