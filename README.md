@@ -169,6 +169,10 @@
     - [구슬의 이동](https://gist.github.com/sedin2/c7d3414db3c7f920cb17ebf3c945b33c)
     - [벽이 없는 충돌 실험](https://gist.github.com/sedin2/c742538e81a7261d3ce6d902877266ce)
     - [합쳐지는 구슬들](https://gist.github.com/sedin2/2812918541b6ad1b0ebcb9bfca4293b8)
+    
+  - Backtracking
+    - **K개 중 하나를 N번 선택하기(Simple)**
+    - [k개 중에 1개를 n번 뽑기](https://gist.github.com/sedin2/d89f158adb41931069f6546a3556f091)
 
 |                                     주제                                      |
 | :---------------------------------------------------------------------------: |
