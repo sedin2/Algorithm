@@ -174,6 +174,7 @@
     - **K개 중 하나를 N번 선택하기(Simple)**
     - [k개 중에 1개를 n번 뽑기](https://gist.github.com/sedin2/d89f158adb41931069f6546a3556f091)
     - [아름다운 수](https://gist.github.com/sedin2/a591ba269b9b30f9d16752f790366639)
+    - [강력한 폭발](https://gist.github.com/sedin2/8d3f46b940f77c2e6998ac76579dd75e)
 
 |                                     주제                                      |
 | :---------------------------------------------------------------------------: |
