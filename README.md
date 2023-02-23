@@ -175,6 +175,7 @@
     - [k개 중에 1개를 n번 뽑기](https://gist.github.com/sedin2/d89f158adb41931069f6546a3556f091)
     - [아름다운 수](https://gist.github.com/sedin2/a591ba269b9b30f9d16752f790366639)
     - [강력한 폭발](https://gist.github.com/sedin2/8d3f46b940f77c2e6998ac76579dd75e)
+    - [겹치지 않게 선분 고르기](https://gist.github.com/sedin2/ea880daf5d0939cca885434a86dcf874)
 
 |                                     주제                                      |
 | :---------------------------------------------------------------------------: |
