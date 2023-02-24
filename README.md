@@ -176,6 +176,7 @@
     - [아름다운 수](https://gist.github.com/sedin2/a591ba269b9b30f9d16752f790366639)
     - [강력한 폭발](https://gist.github.com/sedin2/8d3f46b940f77c2e6998ac76579dd75e)
     - [겹치지 않게 선분 고르기](https://gist.github.com/sedin2/ea880daf5d0939cca885434a86dcf874)
+    - [사다리 타기](https://gist.github.com/sedin2/ae8113d9f7fab97a0c6d0614aeb2ea52)
 
 |                                     주제                                      |
 | :---------------------------------------------------------------------------: |
