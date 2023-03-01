@@ -181,6 +181,7 @@
     - [알파벳과 사칙연산](https://gist.github.com/sedin2/486a45e0b2d9d689585ab0adf4671dc6)
     - [특정 조건에 맞게 k개 중에 1개를 n번 뽑기](https://gist.github.com/sedin2/a5625e4501c87965fa0e2488c72b0525)
     - [1차원 윷놀이](https://gist.github.com/sedin2/9d3b615e27703958b6575af2402c669b)
+    - [가능한 수열 중 최솟값 구하기](https://gist.github.com/sedin2/bd0cc0d319a63eae1a33066ed28eb496)
 
 |                                     주제                                      |
 | :---------------------------------------------------------------------------: |
