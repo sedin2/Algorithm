@@ -179,9 +179,11 @@
     - [사다리 타기](https://gist.github.com/sedin2/ae8113d9f7fab97a0c6d0614aeb2ea52)
     - [2명의 도둑](https://gist.github.com/sedin2/d810f1a1e63dfb82823fe414ac6bc3d0)
     - [알파벳과 사칙연산](https://gist.github.com/sedin2/486a45e0b2d9d689585ab0adf4671dc6)
+    - **K개 중 하나를 N번 선택하기(Conditional)**
     - [특정 조건에 맞게 k개 중에 1개를 n번 뽑기](https://gist.github.com/sedin2/a5625e4501c87965fa0e2488c72b0525)
     - [1차원 윷놀이](https://gist.github.com/sedin2/9d3b615e27703958b6575af2402c669b)
     - [가능한 수열 중 최솟값 구하기](https://gist.github.com/sedin2/bd0cc0d319a63eae1a33066ed28eb496)
+    - [방향에 맞춰 최대로 움직이기](https://gist.github.com/sedin2/f3f1aed9fca8553d02adb37cb8e53879)
 
 |                                     주제                                      |
 | :---------------------------------------------------------------------------: |
