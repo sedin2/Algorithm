@@ -184,6 +184,7 @@
     - [1차원 윷놀이](https://gist.github.com/sedin2/9d3b615e27703958b6575af2402c669b)
     - [가능한 수열 중 최솟값 구하기](https://gist.github.com/sedin2/bd0cc0d319a63eae1a33066ed28eb496)
     - [방향에 맞춰 최대로 움직이기](https://gist.github.com/sedin2/f3f1aed9fca8553d02adb37cb8e53879)
+    - [최소 점프 횟수](https://gist.github.com/sedin2/eb8b005244a71d4cfefb306c80c706ec)
 
 |                                     주제                                      |
 | :---------------------------------------------------------------------------: |
