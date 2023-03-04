@@ -185,6 +185,8 @@
     - [가능한 수열 중 최솟값 구하기](https://gist.github.com/sedin2/bd0cc0d319a63eae1a33066ed28eb496)
     - [방향에 맞춰 최대로 움직이기](https://gist.github.com/sedin2/f3f1aed9fca8553d02adb37cb8e53879)
     - [최소 점프 횟수](https://gist.github.com/sedin2/eb8b005244a71d4cfefb306c80c706ec)
+    - **N개 중에 M개 고르기(Simple)**
+    - [n개 중에 m개 뽑기](https://gist.github.com/sedin2/7d3326768074582b289e8255685f7d66)
 
 |                                     주제                                      |
 | :---------------------------------------------------------------------------: |
