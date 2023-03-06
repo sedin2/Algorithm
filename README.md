@@ -188,6 +188,7 @@
     - **N개 중에 M개 고르기(Simple)**
     - [n개 중에 m개 뽑기](https://gist.github.com/sedin2/7d3326768074582b289e8255685f7d66)
     - [xor 결과 최대 만들기](https://gist.github.com/sedin2/ed9c7f798961f2b14c3726af830505a9)
+    - [단순한 동전 챙기기](https://gist.github.com/sedin2/b390ff11a5ed5b2a4ad7cfd419281647)
 
 |                                     주제                                      |
 | :---------------------------------------------------------------------------: |
