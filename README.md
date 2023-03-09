@@ -191,6 +191,7 @@
     - [단순한 동전 챙기기](https://gist.github.com/sedin2/b390ff11a5ed5b2a4ad7cfd419281647)
     - [2n개 중에 n개의 숫자를 적절하게 고르기](https://gist.github.com/sedin2/d8b77231db166cdfa6878e74c2a538ec)
     - [n개의 점 중 m개 고르기](https://gist.github.com/sedin2/111f33d2eb2e7bd42c810db3ec1eb691)
+    - [크기가 n인 순열](https://gist.github.com/sedin2/c64581d045948bc9466b2d04c30fd477)
 
 |                                     주제                                      |
 | :---------------------------------------------------------------------------: |
