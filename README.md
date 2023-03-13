@@ -196,6 +196,7 @@
     - [거꾸로 순열](https://gist.github.com/sedin2/451008e2fcba8b30ae7435d00401b3a1)
     - [수들의 합 최대화하기](https://gist.github.com/sedin2/12d8852c09538fc857f602503f5ce09d)
     - [외판원 순회](https://gist.github.com/sedin2/f80009dadc1f4127e9b867400104acc5)
+    - [수들 중 최솟값 최대화하기](https://gist.github.com/sedin2/e99d46edc37e1336b8d1a4a17ce01e42)
 
 |                                     주제                                      |
 | :---------------------------------------------------------------------------: |
