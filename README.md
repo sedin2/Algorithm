@@ -197,6 +197,7 @@
     - [수들의 합 최대화하기](https://gist.github.com/sedin2/12d8852c09538fc857f602503f5ce09d)
     - [외판원 순회](https://gist.github.com/sedin2/f80009dadc1f4127e9b867400104acc5)
     - [수들 중 최솟값 최대화하기](https://gist.github.com/sedin2/e99d46edc37e1336b8d1a4a17ce01e42)
+    - [피보나치 수](https://gist.github.com/sedin2/38a1e313baa63fdceabd4c7b0fc79a64)
 
 |                                     주제                                      |
 | :---------------------------------------------------------------------------: |
