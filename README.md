@@ -202,6 +202,7 @@
     - [피보나치 수](https://gist.github.com/sedin2/38a1e313baa63fdceabd4c7b0fc79a64)
     - [계단 오르기](https://gist.github.com/sedin2/3be9d579e164f41bb889b8f83ee2511d)
     - [사각형 채우기](https://gist.github.com/sedin2/3cf1d699ec105dc26b760a6a2a244cf3)
+    - [사각형 채우기 3](https://gist.github.com/sedin2/f04c104244a5d41aef4d1ac631decf0d)
 
 |                                     주제                                      |
 | :---------------------------------------------------------------------------: |
