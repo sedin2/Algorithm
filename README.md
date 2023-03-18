@@ -203,6 +203,7 @@
     - [계단 오르기](https://gist.github.com/sedin2/3be9d579e164f41bb889b8f83ee2511d)
     - [사각형 채우기](https://gist.github.com/sedin2/3cf1d699ec105dc26b760a6a2a244cf3)
     - [사각형 채우기 3](https://gist.github.com/sedin2/f04c104244a5d41aef4d1ac631decf0d)
+    - [서로 다른 BST 개수 세기](https://gist.github.com/sedin2/e1b919eda0167b2a18e08ccc5d0ebd1d)
 
 |                                     주제                                      |
 | :---------------------------------------------------------------------------: |
