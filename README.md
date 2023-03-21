@@ -206,6 +206,7 @@
     - [서로 다른 BST 개수 세기](https://gist.github.com/sedin2/e1b919eda0167b2a18e08ccc5d0ebd1d)
     - [사각형 채우기 2](https://gist.github.com/sedin2/ab23b809ada3ae569bac5c72f3188a99)
     - [정수 사각형 최대 합](https://gist.github.com/sedin2/81bd4cf34724381adade599dd8b6ca08)
+    - [정수 사각형 최소 합](https://gist.github.com/sedin2/3cd076447dbf46894ba3ebc52b42c157)
 
 |                                     주제                                      |
 | :---------------------------------------------------------------------------: |
