@@ -210,6 +210,7 @@
     - [정수 사각형 최솟값의 최대](https://gist.github.com/sedin2/dee6537196fefa46fdd6b4d7ca33db10)
     - [정수 사각형 최장 증가 수열](https://gist.github.com/sedin2/aaf73aa07116e427c535733aea919d6e)
     - [정수 사각형 차이의 최소 2](https://gist.github.com/sedin2/eb07351c12b578b8a8848753e3d6ec85)
+    - [정수 사각형 최댓값의 최소](https://gist.github.com/sedin2/e4a2fb94fd30e2adf81b90d594d3ff1b)
 
 |                                     주제                                      |
 | :---------------------------------------------------------------------------: |
