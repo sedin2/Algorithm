@@ -212,6 +212,7 @@
     - [정수 사각형 차이의 최소 2](https://gist.github.com/sedin2/eb07351c12b578b8a8848753e3d6ec85)
     - [정수 사각형 최댓값의 최소](https://gist.github.com/sedin2/e4a2fb94fd30e2adf81b90d594d3ff1b)
     - [최대 증가 부분 수열](https://gist.github.com/sedin2/64b541b4b968bbf3554a908f46335c7c)
+    - [최대 감소 부분 수열](https://gist.github.com/sedin2/c769a8f962695306ffa545ec734848a9)
 
 |                                     주제                                      |
 | :---------------------------------------------------------------------------: |
