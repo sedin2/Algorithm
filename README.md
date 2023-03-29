@@ -205,15 +205,18 @@
     - [사각형 채우기 3](https://gist.github.com/sedin2/f04c104244a5d41aef4d1ac631decf0d)
     - [서로 다른 BST 개수 세기](https://gist.github.com/sedin2/e1b919eda0167b2a18e08ccc5d0ebd1d)
     - [사각형 채우기 2](https://gist.github.com/sedin2/ab23b809ada3ae569bac5c72f3188a99)
+    - **격자 안에서 한 칸씩 전진하는 DP**
     - [정수 사각형 최대 합](https://gist.github.com/sedin2/81bd4cf34724381adade599dd8b6ca08)
     - [정수 사각형 최소 합](https://gist.github.com/sedin2/3cd076447dbf46894ba3ebc52b42c157)
     - [정수 사각형 최솟값의 최대](https://gist.github.com/sedin2/dee6537196fefa46fdd6b4d7ca33db10)
     - [정수 사각형 최장 증가 수열](https://gist.github.com/sedin2/aaf73aa07116e427c535733aea919d6e)
     - [정수 사각형 차이의 최소 2](https://gist.github.com/sedin2/eb07351c12b578b8a8848753e3d6ec85)
     - [정수 사각형 최댓값의 최소](https://gist.github.com/sedin2/e4a2fb94fd30e2adf81b90d594d3ff1b)
+    - **조건에 맞게 선택적으로 전진하는 DP**
     - [최대 증가 부분 수열](https://gist.github.com/sedin2/64b541b4b968bbf3554a908f46335c7c)
     - [최대 감소 부분 수열](https://gist.github.com/sedin2/c769a8f962695306ffa545ec734848a9)
     - [최대 점프 횟수](https://gist.github.com/sedin2/38bef9e3a0de8b739aea97e9a0c20c12)
+    - [2차원 최대 증가 수열](https://gist.github.com/sedin2/0c1299c158517d3a0b9bca5f0248981a)
 
 |                                     주제                                      |
 | :---------------------------------------------------------------------------: |
