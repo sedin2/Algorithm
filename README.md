@@ -217,6 +217,7 @@
     - [최대 감소 부분 수열](https://gist.github.com/sedin2/c769a8f962695306ffa545ec734848a9)
     - [최대 점프 횟수](https://gist.github.com/sedin2/38bef9e3a0de8b739aea97e9a0c20c12)
     - [2차원 최대 증가 수열](https://gist.github.com/sedin2/0c1299c158517d3a0b9bca5f0248981a)
+    - [겹치지 않게 선분 고르기 2](https://gist.github.com/sedin2/843c23c63b9bf0650bec257b7f88062a)
 
 |                                     주제                                      |
 | :---------------------------------------------------------------------------: |
