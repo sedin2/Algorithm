@@ -219,6 +219,7 @@
     - [2차원 최대 증가 수열](https://gist.github.com/sedin2/0c1299c158517d3a0b9bca5f0248981a)
     - [겹치지 않게 선분 고르기 2](https://gist.github.com/sedin2/843c23c63b9bf0650bec257b7f88062a)
     - [증가했다가 감소하는 부분 수열](https://gist.github.com/sedin2/209011204e7f1f8b11a1a7b53ea5cedd)
+    - [알바로 부자 되기](https://gist.github.com/sedin2/077f6d0b039ba10c6b6eb84f3c81703c)
 
 |                                     주제                                      |
 | :---------------------------------------------------------------------------: |
