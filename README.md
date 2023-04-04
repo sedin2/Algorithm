@@ -221,6 +221,7 @@
     - [증가했다가 감소하는 부분 수열](https://gist.github.com/sedin2/209011204e7f1f8b11a1a7b53ea5cedd)
     - [알바로 부자 되기](https://gist.github.com/sedin2/077f6d0b039ba10c6b6eb84f3c81703c)
     - [동전 거슬러주기](https://gist.github.com/sedin2/42d8a6309e585978c213db2ffc39731a)
+    - [부분 수열의 합이 m](https://gist.github.com/sedin2/bc9854674f8bbe1e59c67d8f5dd5df28)
 
 |                                     주제                                      |
 | :---------------------------------------------------------------------------: |
