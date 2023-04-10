@@ -224,6 +224,7 @@
     - [부분 수열의 합이 m](https://gist.github.com/sedin2/bc9854674f8bbe1e59c67d8f5dd5df28)
     - [1, 2, 5 더하기](https://gist.github.com/sedin2/df5d6ec95bf53ceb9bd3944313e43857)
     - [최대 동전 거슬러주기](https://gist.github.com/sedin2/2b6bf236444853261a268d683ccf781d)
+    - [부분 수열의 합](https://gist.github.com/sedin2/df04f437324d7c92f0bf0e6128695ae8)
 
 |                                     주제                                      |
 | :---------------------------------------------------------------------------: |
