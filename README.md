@@ -227,6 +227,7 @@
     - [부분 수열의 합](https://gist.github.com/sedin2/df04f437324d7c92f0bf0e6128695ae8)
     - [배낭 채우기](https://gist.github.com/sedin2/ff0400e10f0561882fd6dbe2e5c75ab8)
     - [막대기 나누기](https://gist.github.com/sedin2/ca0a989119a26e1580b533dd76da571c)
+    - [배낭 채우기2](https://gist.github.com/sedin2/e57e753d4411ee46f3763f68d78fcb21)
 
 |                                     주제                                      |
 | :---------------------------------------------------------------------------: |
